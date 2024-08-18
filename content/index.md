@@ -5,7 +5,7 @@ $$
 (p \rightarrow q) \land p \vdash q
 $$
 
-### Curriculum Vitae
+### Curriculum Vitaee
 
 [italiano](cv_ita.pdf) [english](cv_eng.pdf)
 
