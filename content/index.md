@@ -16,10 +16,10 @@ $$
 
 ## [telegramlib](https://pypi.org/project/telegramlib/)
 
-## Square Escape
+## [Square Escape](square-escape)
 
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
-- [Play here](https://illancio.github.io/SquareEscape/)
+- [Play here](square-escape)
 
 ## [Bloom Telegram bot](https://t.me/BLOOM_chatbot)
 
