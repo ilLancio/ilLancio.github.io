@@ -20,11 +20,10 @@ $$
 
 - <a href="square-escape" target="_blank">Play here</a>
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
-- [Download for Mac ](https://github.com/ilLancio/ilLancio.github.io/blob/v4/content/SpettriRaman.pdf "download")
-- [Download for Windows ❖](https://github.com/ilLancio/ilLancio.github.io/blob/v4/content/square-escape "download")
-- [Square Escape](https://github.com/ilLancio/ilLancio.github.io/blob/v4/content/square-escape "_blank")
-- [Square Escape](https://github.com/ilLancio/ilLancio.github.io/blob/v4/content/square-escape "blank")
-- ciccia
+- [Download for Mac ](https://ilLancio.github.io/SpettriRaman.pdf "download")
+- [Download for Windows ❖](https://ilLancio.github.io/square-escape "download")
+- [Square Escape](https://ilLancio.github.io/square-escape "_blank")
+- [Square Escape](https://ilLancio.github.io/square-escape "blank")
 
 ## [Bloom Telegram bot](https://t.me/BLOOM_chatbot)
 
