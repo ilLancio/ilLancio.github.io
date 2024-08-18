@@ -22,5 +22,5 @@ $$
 
 ## [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Se uno ha sentito il morso dei veri principî gli basta anche il minimo cenno, la frase che tutti conoscono, per ricordare di essere estraneo al dolore e alla paura. Per esempio foglie, alcune il vento ne sparge per terra... così la stirpe degli uomini... E foglioline sono anche i tuoi figli, foglioline anche questi che con un'espressione tanto convinta acclamano e glorificano o, al contrario, maledicono, o nell'intimo criticano e dileggiano; e foglioline, ugualmente, quelli a cui sarà affidata la nostra fama postuma. Tutti questi esseri, infatti, nascono nella stagione di primavera... poi il vento li abbatte; e poi al loro posto la selva ne genera altri. Un'esistenza breve è la comune condizione di ogni cosa; tu invece eviti e insegui ogni cosa come fosse destinata a durare in eterno. Ancora un poco, e chiuderai gli occhi; e sùbito un altro piangerà colui che ti ha seppellito.
+Esèrcitati anche nelle cose in cui sei convinto di non riuscire: la mano sinistra, inetta nel resto per mancanza di esercizio, tiene le briglie con più forza della destra, perché vi è esercitata.
 
