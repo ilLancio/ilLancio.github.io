@@ -105,6 +105,20 @@
 				meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
 				document.getElementsByTagName('head')[0].appendChild(meta);
 			}
+			var unityInstance = createUnityInstance(document.querySelector("#unityContainer"), config, (progress) => {
+				// Progress bar code here
+			}).then((unityInstance) => {
+				// Success code here
+			}).catch((message) => {
+				console.error(message);
+				if (!sessionStorage.getItem('reloaded')) {
+					sessionStorage.setItem('reloaded', 'true');
+					location.reload();
+				} else {
+					sessionStorage.removeItem('reloaded');
+					alert('Failed to load Unity WebGL. Please try reloading the page manually.');
+				}
+			});
 		</script>
 	</div>
 </body>
