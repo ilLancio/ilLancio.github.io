@@ -18,6 +18,9 @@ $$
 
 ## [Square Escape](https://illancio.github.io/square-escape){:target="_blank"}
 
+<a href="https://illancio.github.io/square-escape" target="_blank">Opens in new tab</a>
+<a href="square-escape" target="_blank">Opens in new tab</a>
+
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
 - [Play here](square-escape){:target="_blank"}
 
