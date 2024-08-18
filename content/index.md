@@ -1,6 +1,23 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
+$$
+(p \rightarrow q) \land p \vdash q
+$$
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+### Curriculum Vitae
+
+[italiano](cv_ita.pdf) [english](cv_eng.pdf)
+
+### Contacts
+
+- **Email**: <daniele9001@gmail.com>
+- **Github**: [ilLancio](https://github.com/ilLancio)
+
+## [telegramlib](https://pypi.org/project/telegramlib/)
+
+## [Square Escape](https://logos-psychagogia.itch.io/square-escape)
+
+## [Bloom Telegram bot](https://t.me/BLOOM_chatbot)
+
+## [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
