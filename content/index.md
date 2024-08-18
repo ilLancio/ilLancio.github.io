@@ -20,12 +20,6 @@ $$
 
 - <a href="square-escape" target="_blank">Play here</a>
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
-- <a href="SpettriRaman.pdf" title="Download" download>Download </a>
-- <a href="square-escape" title="Download" download>Download ❖</a>
-- {{< a href="/documents/my_doc.txt" download="download" >}}
-Click here to download
-{{< /a >}}
-- <a id="raw-url" href="SpettriRaman.pdf">Download FILE</a>
 
 ## [Bloom Telegram bot](https://t.me/BLOOM_chatbot)
 
