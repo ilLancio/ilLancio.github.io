@@ -16,7 +16,7 @@ $$
 
 ## [telegramlib](https://pypi.org/project/telegramlib/)
 
-## <a href="square-escape" target="_blank">Square Escape</a>
+## <a href="https://illancio.github.io/square-escape" target="_blank">Square Escape</a>
 
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
 - <a href="square-escape" target="_blank">Play here</a>
