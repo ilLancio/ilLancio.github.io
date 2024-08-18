@@ -19,7 +19,7 @@ $$
 ## Square Escape
 
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
-- [Play here](SquareEscape/)
+- [Play here](https://illancio.github.io/SquareEscape/)
 
 ## [Bloom Telegram bot](https://t.me/BLOOM_chatbot)
 
