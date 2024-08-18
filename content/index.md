@@ -18,6 +18,8 @@ $$
 
 ## [Square Escape](square-escape)
 
+![Square Escape](square-escape)
+
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
 - [Play here](square-escape)
 
