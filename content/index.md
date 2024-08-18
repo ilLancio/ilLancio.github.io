@@ -16,22 +16,10 @@ $$
 
 ## [telegramlib](https://pypi.org/project/telegramlib/)
 
-## [Square Escape](square-escape)
-
-![Square Escape](square-escape)
-![Square Escape](square-escape/)
-![Square Escape](/square-escape/)
-![Square Escape](https://illancio.github.io/square-escape)
-![Square Escape](https://illancio.github.io/square-escape/)
-
-[Square Escape](square-escape)
-[Square Escape](square-escape/)
-[Square Escape](/square-escape/)
-[Square Escape](https://illancio.github.io/square-escape)
-[Square Escape](https://illancio.github.io/square-escape/)
+## [Square Escape](https://illancio.github.io/square-escape){:target="_blank"}
 
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
-- [Play here](square-escape)
+- [Play here](square-escape){:target="_blank"}
 
 ## [Bloom Telegram bot](https://t.me/BLOOM_chatbot)
 
