@@ -19,6 +19,16 @@ $$
 ## [Square Escape](square-escape)
 
 ![Square Escape](square-escape)
+![Square Escape](square-escape/)
+![Square Escape](/square-escape/)
+![Square Escape](https://illancio.github.io/square-escape)
+![Square Escape](https://illancio.github.io/square-escape/)
+
+[Square Escape](square-escape)
+[Square Escape](square-escape/)
+[Square Escape](/square-escape/)
+[Square Escape](https://illancio.github.io/square-escape)
+[Square Escape](https://illancio.github.io/square-escape/)
 
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
 - [Play here](square-escape)
