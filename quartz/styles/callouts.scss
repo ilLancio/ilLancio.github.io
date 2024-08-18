@@ -119,6 +119,9 @@
 }
 
 .callout-title {
+  white-space: nowrap;
+  word-break: break-word;
+
   display: flex;
   align-items: flex-start;
   gap: 5px;
