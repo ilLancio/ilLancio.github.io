@@ -25,6 +25,7 @@ $$
 - {{< a href="/documents/my_doc.txt" download="download" >}}
 Click here to download
 {{< /a >}}
+- <a id="raw-url" href="SpettriRaman.pdf">Download FILE</a>
 
 ## [Bloom Telegram bot](https://t.me/BLOOM_chatbot)
 
