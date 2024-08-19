@@ -14,8 +14,6 @@ $$
 - **Email**: <daniele9001@gmail.com>
 - **Github**: [ilLancio](https://github.com/ilLancio)
 
----
-
 ### [telegramlib](https://pypi.org/project/telegramlib/)
 
 ### [Square Escape](https://logos-psychagogia.itch.io/square-escape)
