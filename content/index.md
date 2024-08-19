@@ -5,18 +5,18 @@ $$
 (p \rightarrow q) \land p \vdash q
 $$
 
-### Curriculum Vitae
+## Curriculum Vitae
 
 [italiano](cv_ita.pdf) [english](cv_eng.pdf)
 
-### Contacts
+## Contacts
 
 - **Email**: <daniele9001@gmail.com>
 - **Github**: [ilLancio](https://github.com/ilLancio)
 
 ## [telegramlib](https://pypi.org/project/telegramlib/)
 
-## [Square Escape]
+## [Square Escape](https://logos-psychagogia.itch.io/square-escape)
 
 - <a href="square-escape" target="_blank">Play here</a>
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
