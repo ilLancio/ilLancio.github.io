@@ -18,7 +18,7 @@ $$
 
 ## [Square Escape](href="https://illancio.github.io/square-escape" target="_blank")
 
-## [Square Escape](<href="https://illancio.github.io/square-escape"> target="_blank")
+## [Square Escape](href="<https://illancio.github.io/square-escape"> target="_blank")
 
 - <a href="square-escape" target="_blank">Play here</a>
 - [Play on itch.io](https://logos-psychagogia.itch.io/square-escape)
