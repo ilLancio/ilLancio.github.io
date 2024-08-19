@@ -5,11 +5,11 @@ $$
 (p \rightarrow q) \land p \vdash q
 $$
 
-## Curriculum Vitae
+### Curriculum Vitae
 
 [italiano](cv_ita.pdf) [english](cv_eng.pdf)
 
-## Contacts
+### Contacts
 
 - **Email**: <daniele9001@gmail.com>
 - **Github**: [ilLancio](https://github.com/ilLancio)
