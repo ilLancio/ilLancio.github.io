@@ -14,6 +14,8 @@ $$
 - **Email**: <daniele9001@gmail.com>
 - **Github**: [ilLancio](https://github.com/ilLancio)
 
+### [$\vdash$](Logica-Matematica.pdf)
+
 ---
 
 ### [telegramlib](https://pypi.org/project/telegramlib/)
