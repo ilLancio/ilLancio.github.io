@@ -5,12 +5,6 @@ $$
 (p \rightarrow q) \land p \vdash q
 $$
 
-<div align="center">
-
-[$(p \rightarrow q) \land p \vdash q$](Logica-Matematica.pdf)
-
-</div>
-
 ### Curriculum Vitae
 
 [italiano](cv_ita.pdf) [english](cv_eng.pdf)
@@ -20,9 +14,19 @@ $$
 - **Email**: <daniele9001@gmail.com>
 - **Github**: [ilLancio](https://github.com/ilLancio)
 
+[$\vdash$](Logica-Matematica.pdf)
+
+### [$\vdash$](Logica-Matematica.pdf)
+
 <div align="center">
 
 [$\vdash$](Logica-Matematica.pdf)
+
+</div>
+
+<div align="center">
+
+### [$\vdash$](Logica-Matematica.pdf)
 
 </div>
 
