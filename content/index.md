@@ -14,15 +14,9 @@ $$
 - **Email**: <daniele9001@gmail.com>
 - **Github**: [ilLancio](https://github.com/ilLancio)
 
-[$\vdash$](Logica-Matematica.pdf)
-
-### [$\vdash$](Logica-Matematica.pdf)
-
 <div align="center">
 
 [$\vdash$](Logica-Matematica.pdf)
-
-### [$\vdash$](Logica-Matematica.pdf)
 
 </div>
 
