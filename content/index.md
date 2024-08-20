@@ -22,10 +22,6 @@ $$
 
 [$\vdash$](Logica-Matematica.pdf)
 
-</div>
-
-<div align="center">
-
 ### [$\vdash$](Logica-Matematica.pdf)
 
 </div>
