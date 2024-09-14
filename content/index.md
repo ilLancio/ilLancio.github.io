@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ricorda da quanto tempo rinvii queste cose e quante volte, ricevuta una scadenza dagli dèi, non la metti a frutto. Devi finalmente comprendere quale sia il cosmo di cui sei parte, quale sia l'entità al governo del cosmo della quale tu costituisci un'emanazione, e che hai un limite circoscritto di tempo, un tempo che, se non ne approfitti per conquistare la serenità, andrà perduto, e andrai perduto anche tu, e non vi sarà un'altra possibilità.
+Per ciascun essere la natura ha avuto di mira la fine dell'esistenza, non meno che il suo inizio e il suo corso, proprio come chi lancia la palla: ora, quale bene ha mai la palla nel salire, quale male nello scendere o nell'essere già caduta a terra? E quale bene ha la bolla intatta, quale male la bolla scoppiata? Lo stesso dicasi anche per una lucerna...
 
