@@ -32,3 +32,6 @@ $$
 ### [Bloom Telegram bot](https://t.me/BLOOM_chatbot)
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
+
+Da mio nonno Vero: il carattere buono e non irascibile.
+
