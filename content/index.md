@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Come ti si presenta il bagno - olio, sudore, sporco, acqua unta, tutte cose ripugnanti -, così è ogni parte della vita e ogni oggetto.
+Molti granelli di incenso sullo stesso altare: uno è caduto prima, l'altro dopo, ma non fa nessuna differenza.
 
