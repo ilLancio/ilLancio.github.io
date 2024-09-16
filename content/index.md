@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Molti granelli di incenso sullo stesso altare: uno è caduto prima, l'altro dopo, ma non fa nessuna differenza.
+Ad ogni cosa che qualcuno fa abìtuati, per quanto possibile, a indagare dentro di te: «A cosa mira costui con quest'azione?». Ma comincia da te e esamina per primo te stesso.
 
