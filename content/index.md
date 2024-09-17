@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ad ogni cosa che qualcuno fa abìtuati, per quanto possibile, a indagare dentro di te: «A cosa mira costui con quest'azione?». Ma comincia da te e esamina per primo te stesso.
+«Perché, Ateniesi, la verità è questa: nel posto dove uno si schiera, perché lo ha giudicato il migliore o perché gli è stato assegnato dal comandante, in quel posto, a mio parere, deve rimanere e sfidare il pericolo senza dar peso alla morte e a nient'altro più che al disonore».
 
