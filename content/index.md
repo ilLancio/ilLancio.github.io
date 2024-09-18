@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-«Perché, Ateniesi, la verità è questa: nel posto dove uno si schiera, perché lo ha giudicato il migliore o perché gli è stato assegnato dal comandante, in quel posto, a mio parere, deve rimanere e sfidare il pericolo senza dar peso alla morte e a nient'altro più che al disonore».
+Un ragno è orgoglioso di aver catturato una mosca; qualcuno è orgoglioso di aver catturato un leprotto, altri di aver preso un'acciuga nella rete, chi di aver preso dei cinghiali, chi degli orsi, chi dei Sarmati. Del resto non sono forse briganti, se esamini i loro principî?
 
