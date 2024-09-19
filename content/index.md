@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Un ragno è orgoglioso di aver catturato una mosca; qualcuno è orgoglioso di aver catturato un leprotto, altri di aver preso un'acciuga nella rete, chi di aver preso dei cinghiali, chi degli orsi, chi dei Sarmati. Del resto non sono forse briganti, se esamini i loro principî?
+Lo stesso rapporto che in un singolo organismo intercorre tra le membra del corpo, collega, in esseri distinti, le capacità razionali, che sono state costituite per collaborare tra loro ad un'unica attività. Il concetto ti diverrà più evidente se ripeterai più volte a te stesso: «Sono un membro [mélos] del sistema formato dagli esseri razionali». Se invece dirai, con la lettera rho, di esserne solo una parte [méros], significa che non ami ancora gli uomini dal profondo del cuore, che il far del bene non ti allieta ancora con la piena consapevolezza della tua condotta, che continui a farlo come un semplice dovere, non ancora persuaso di fare del bene, così, anche a te stesso.
 
