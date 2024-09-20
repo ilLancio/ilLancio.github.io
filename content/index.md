@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Lo stesso rapporto che in un singolo organismo intercorre tra le membra del corpo, collega, in esseri distinti, le capacità razionali, che sono state costituite per collaborare tra loro ad un'unica attività. Il concetto ti diverrà più evidente se ripeterai più volte a te stesso: «Sono un membro [mélos] del sistema formato dagli esseri razionali». Se invece dirai, con la lettera rho, di esserne solo una parte [méros], significa che non ami ancora gli uomini dal profondo del cuore, che il far del bene non ti allieta ancora con la piena consapevolezza della tua condotta, che continui a farlo come un semplice dovere, non ancora persuaso di fare del bene, così, anche a te stesso.
+La sfera dell'anima conserva inalterata la sua forma quando non si protende verso qualcosa, né si ripiega al suo interno, né si disperde, né si adagia, ma risplende della luce con cui vede la verità di ogni cosa e la verità che ha in sé.
 
