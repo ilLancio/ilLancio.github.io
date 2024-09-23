@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Penetra nel principio dirigente di ciascuno, ma permetti anche a chiunque altro di penetrare nel tuo.
+«A chi dunque ha una mente magnanima e l'attitudine ad abbracciare col pensiero la totalità del tempo e dell'essere, davvero tu credi che la vita umana possa sembrare una cosa molto importante? - Impossibile - disse quello. - E quindi un uomo di questo genere giudicherà forse la morte qualcosa di terribile? - No, affatto».
 
