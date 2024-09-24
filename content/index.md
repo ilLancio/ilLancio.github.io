@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-«A chi dunque ha una mente magnanima e l'attitudine ad abbracciare col pensiero la totalità del tempo e dell'essere, davvero tu credi che la vita umana possa sembrare una cosa molto importante? - Impossibile - disse quello. - E quindi un uomo di questo genere giudicherà forse la morte qualcosa di terribile? - No, affatto».
+«La terra ama la pioggia, e la ama anche il venerabile etere»; e il cosmo ama fare tutto ciò che deve accadere. Ora, al cosmo dico: «Amo con te». Non si dice anche, comunemente, che una data cosa «ama accadere»?
 
