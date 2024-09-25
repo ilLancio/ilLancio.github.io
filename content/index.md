@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-«La terra ama la pioggia, e la ama anche il venerabile etere»; e il cosmo ama fare tutto ciò che deve accadere. Ora, al cosmo dico: «Amo con te». Non si dice anche, comunemente, che una data cosa «ama accadere»?
+Bastano: l'opinione capace di afferrare la realtà nel momento attuale; l'azione utile alla comunità nel momento attuale; la disposizione pronta ad accettare tutto ciò che, nel momento attuale, proviene dalla causa esterna.
 
