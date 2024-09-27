@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Bastano: l'opinione capace di afferrare la realtà nel momento attuale; l'azione utile alla comunità nel momento attuale; la disposizione pronta ad accettare tutto ciò che, nel momento attuale, proviene dalla causa esterna.
+Vedi sempre cosa effettivamente sia quello che produce la tua rappresentazione, e spiegalo suddividendolo in elemento causale, elemento materiale, fine, tempo entro cui dovrà aver cessato di essere.
 
