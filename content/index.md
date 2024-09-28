@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Vedi sempre cosa effettivamente sia quello che produce la tua rappresentazione, e spiegalo suddividendolo in elemento causale, elemento materiale, fine, tempo entro cui dovrà aver cessato di essere.
+La mente dell'universo è favorevole al vincolo sociale. Quindi ha prodotto gli esseri inferiori per quelli superiori, e ha posto gli esseri superiori in reciproca connessione. Vedi come ha subordinato, coordinato e assegnato a ciascuno secondo il merito, e come ha condotto gli esseri eminenti a reciproca concordia.
 
