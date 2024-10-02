@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Se sopprimi la tua opinione circa quello che pare affliggerti, ti sei collocato tu stesso nella posizione più sicura. «Tu stesso: chi?». La ragione. «Ma io non sono la ragione». D'accordo: allora è la ragione che non deve affliggere se stessa. E se è un'altra parte di te che patisce, sta a questa formulare un'opinione su di sé.
+È in armonia con me tutto ciò che è in armonia con te, o cosmo; nulla di ciò che per te cade al momento opportuno è precoce o tardivo per me. È un frutto per me tutto ciò che recano le tue stagioni, o natura: tutto da te, tutto in te, tutto a te. Quel tale dice: «O cara città di Cecrope»; e tu non dirai: «O cara città di Zeus»?
 
