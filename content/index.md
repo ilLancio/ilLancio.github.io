@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Quando un altro ti biasima o ti odia, o quando la gente si esprime sul tuo conto in questi termini, volgiti alle loro anime, penetra all'interno di esse e guarda che genere di uomini sono. Vedrai che non devi darti pena perché abbiano di te una determinata opinione. Tuttavia bisogna essere benevoli con loro: per natura sono amici. Anche gli dèi li aiutano nei modi più diversi, attraverso sogni, attraverso oracoli, e proprio nelle cose che interessano a loro.
+Esèrcitati anche nelle cose in cui sei convinto di non riuscire: la mano sinistra, inetta nel resto per mancanza di esercizio, tiene le briglie con più forza della destra, perché vi è esercitata.
 
