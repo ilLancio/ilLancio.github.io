@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Esèrcitati anche nelle cose in cui sei convinto di non riuscire: la mano sinistra, inetta nel resto per mancanza di esercizio, tiene le briglie con più forza della destra, perché vi è esercitata.
+Osserva il loro principio dirigente, e quali cose rifuggono le persone sagge, quali invece inseguono.
 
