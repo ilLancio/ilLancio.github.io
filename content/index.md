@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Vedi sempre cosa effettivamente sia quello che produce la tua rappresentazione, e spiegalo suddividendolo in elemento causale, elemento materiale, fine, tempo entro cui dovrà aver cessato di essere.
+Tutto questo è consueto per l'esperienza, effimero per il tempo, sudicio per la materia. Tutto, ora, è come al tempo di coloro che abbiamo sepolto.
 
