@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Tutto questo è consueto per l'esperienza, effimero per il tempo, sudicio per la materia. Tutto, ora, è come al tempo di coloro che abbiamo sepolto.
+Non lasciarti trascinare totalmente dalla rappresentazione, ma presta il tuo aiuto agli altri secondo le tue possibilità e secondo il loro merito, anche se il danno che lamentano riguarda le cose intermedie (ma, allora, non rappresentartelo come un danno: è una cattiva abitudine). Invece, come faceva quel vecchio che, al momento di andarsene, chiedeva la trottola del suo pupillo, ben ricordando che si trattava di una trottola, così appunto fai anche tu, qui [...]. Uomo, ti sei dimenticato di cosa si trattava? «Sì, lo ricordo bene: ma per costoro hanno grande importanza». E per questo, quindi, dovresti diventar pazzo anche tu?
 
