@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Non lasciarti trascinare totalmente dalla rappresentazione, ma presta il tuo aiuto agli altri secondo le tue possibilità e secondo il loro merito, anche se il danno che lamentano riguarda le cose intermedie (ma, allora, non rappresentartelo come un danno: è una cattiva abitudine). Invece, come faceva quel vecchio che, al momento di andarsene, chiedeva la trottola del suo pupillo, ben ricordando che si trattava di una trottola, così appunto fai anche tu, qui [...]. Uomo, ti sei dimenticato di cosa si trattava? «Sì, lo ricordo bene: ma per costoro hanno grande importanza». E per questo, quindi, dovresti diventar pazzo anche tu?
+Futilità di un corteo trionfale, drammi in scena, greggi, mandrie, combattimenti con la lancia, un osso gettato a dei botoli, un boccone di pane nelle vasche dei pesci, affannarsi di formiche sotto il carico, topolini impauriti che corrono qua e là, marionette mosse con i fili. In queste situazioni bisogna mantenere un atteggiamento benevolo, senza ombra di alterigia, pur osservando che ciascuno vale tanto quanto valgono le cose cui ha rivolto il suo impegno.
 
