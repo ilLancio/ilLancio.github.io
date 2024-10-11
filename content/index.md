@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Futilità di un corteo trionfale, drammi in scena, greggi, mandrie, combattimenti con la lancia, un osso gettato a dei botoli, un boccone di pane nelle vasche dei pesci, affannarsi di formiche sotto il carico, topolini impauriti che corrono qua e là, marionette mosse con i fili. In queste situazioni bisogna mantenere un atteggiamento benevolo, senza ombra di alterigia, pur osservando che ciascuno vale tanto quanto valgono le cose cui ha rivolto il suo impegno.
+Ovunque e continuamente è in tuo potere, esprimendo devozione agli dèi, sentirti appagato dalla situazione presente, comportarti secondo giustizia con gli uomini presenti e applicarti scrupolosamente alla rappresentazione presente, perché non vi si insinui nulla che non sia stato compreso a fondo.
 
