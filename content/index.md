@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ovunque e continuamente è in tuo potere, esprimendo devozione agli dèi, sentirti appagato dalla situazione presente, comportarti secondo giustizia con gli uomini presenti e applicarti scrupolosamente alla rappresentazione presente, perché non vi si insinui nulla che non sia stato compreso a fondo.
+Questo è il prodotto inevitabile di individui che abbiano una simile natura: chi non lo accetta, non accetta che il fico abbia il lattice. Insomma, ricòrdati di questo; in men che si dica sarete morti sia tu sia costui, e fra poco di voi non resterà neppure il nome.
 
