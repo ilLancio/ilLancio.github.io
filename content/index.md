@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Questo è il prodotto inevitabile di individui che abbiano una simile natura: chi non lo accetta, non accetta che il fico abbia il lattice. Insomma, ricòrdati di questo; in men che si dica sarete morti sia tu sia costui, e fra poco di voi non resterà neppure il nome.
+Ogni strumento, arnese, utensile, se compie quello per cui è stato prodotto, va bene. Eppure, in questo caso, il loro produttore è lontano; mentre nel caso di ciò che è costituito da una sua natura, la forza che lo ha prodotto è e permane all'interno: tanto più, quindi, devi venerarla e, se la tua disposizione interiore e la tua condotta sono conformi al suo volere, ritenere che tutto sia conforme al tuo intendimento. Così pure per l'universo: ciò che gli appartiene è conforme al suo intendimento.
 
