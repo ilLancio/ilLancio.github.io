@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ogni strumento, arnese, utensile, se compie quello per cui è stato prodotto, va bene. Eppure, in questo caso, il loro produttore è lontano; mentre nel caso di ciò che è costituito da una sua natura, la forza che lo ha prodotto è e permane all'interno: tanto più, quindi, devi venerarla e, se la tua disposizione interiore e la tua condotta sono conformi al suo volere, ritenere che tutto sia conforme al tuo intendimento. Così pure per l'universo: ciò che gli appartiene è conforme al suo intendimento.
+Per la pietra scagliata verso l'alto non c'è nulla di male nel ricadere come non c'è nulla di bene nel salire.
 
