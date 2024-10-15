@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Per la pietra scagliata verso l'alto non c'è nulla di male nel ricadere come non c'è nulla di bene nel salire.
+È ridicolo non cercare di sottrarsi alla propria malvagità, come sarebbe possibile, e cercare di sottrarsi a quella degli altri, cosa impossibile.
 
