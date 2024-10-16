@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-È ridicolo non cercare di sottrarsi alla propria malvagità, come sarebbe possibile, e cercare di sottrarsi a quella degli altri, cosa impossibile.
+Uno pratica la filosofia senza tunica, un altro senza libro. Quest'altro seminudo dice: «Non ho pane e resto fedele alla dottrina». Quanto a me, non ho il nutrimento che viene dagli studi, e le resto fedele.
 
