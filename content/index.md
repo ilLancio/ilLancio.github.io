@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Danno frutto anche l'uomo, dio, il cosmo: nelle stagioni appropriate ogni singola cosa dà frutto: E se l'uso applica il termine «frutto» in senso proprio soltanto alla vite e alle altre piante, non significa niente. La ragione ha un frutto che è sia comune sia individuale, e da essa nascono altri frutti di natura analoga alla sua.
+Il modo migliore di difendersi è non assimilarsi.
 
