@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Il modo migliore di difendersi è non assimilarsi.
+Esamina continuamente chi siano costoro che tu vuoi ti facciano da testimoni, e quali principî dirigenti abbiano. Guardando alle fonti della loro opinione e del loro impulso, infatti, non dovrai lamentarti di chi sbaglia involontariamente e non avrai bisogno della loro testimonianza.
 
