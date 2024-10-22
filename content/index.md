@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Esamina continuamente chi siano costoro che tu vuoi ti facciano da testimoni, e quali principî dirigenti abbiano. Guardando alle fonti della loro opinione e del loro impulso, infatti, non dovrai lamentarti di chi sbaglia involontariamente e non avrai bisogno della loro testimonianza.
+Quando vuoi rallegrarti, considera i pregi di chi ti vive accanto: il carattere energico di uno, per esempio, la riservatezza di un altro, la generosità di un altro ancora, e così via. Nulla, infatti, rallegra come le sembianze delle virtù che traspaiono nel carattere di chi ci vive accanto e tutte insieme, per quanto è possibile, balzano ai nostri occhi. Perciò bisogna anche tenerle a portata di mano.
 
