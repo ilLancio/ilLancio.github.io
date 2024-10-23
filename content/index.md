@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Quando vuoi rallegrarti, considera i pregi di chi ti vive accanto: il carattere energico di uno, per esempio, la riservatezza di un altro, la generosità di un altro ancora, e così via. Nulla, infatti, rallegra come le sembianze delle virtù che traspaiono nel carattere di chi ci vive accanto e tutte insieme, per quanto è possibile, balzano ai nostri occhi. Perciò bisogna anche tenerle a portata di mano.
+Non vedi quanti, nell'esercizio del loro mestiere, si sforzano entro certi limiti di adeguarsi alle idee dei profani, e ciò non ostante si attengono alla ragione della loro arte e non accettano di staccarsene? Non è grave che l'architetto e il medico abbiano per la ragione del loro mestiere un rispetto maggiore di quello che l'uomo nutre per la propria ragione, che egli possiede in comune con gli dèi?
 
