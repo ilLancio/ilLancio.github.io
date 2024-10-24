@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Non vedi quanti, nell'esercizio del loro mestiere, si sforzano entro certi limiti di adeguarsi alle idee dei profani, e ciò non ostante si attengono alla ragione della loro arte e non accettano di staccarsene? Non è grave che l'architetto e il medico abbiano per la ragione del loro mestiere un rispetto maggiore di quello che l'uomo nutre per la propria ragione, che egli possiede in comune con gli dèi?
+Tutto quel che per qualsivoglia ragione è bello, è bello di per se stesso e si conclude in se stesso, senza che la lode ne costituisca una parte. Ciò che è lodato, quindi, non diviene per questo peggiore né migliore. Lo dico anche a proposito delle cose comunemente definite belle, ad esempio gli oggetti materiali e i prodotti artistici. Invece, ciò che è veramente bello di che altro ha bisogno? Di nulla, esattamente come la legge, come la verità, come la benevolenza o il pudore. Quale di queste cose è bella se è lodata o perde valore se è biasimata? Uno smeraldo diventa peggiore di quel che è, se non viene lodato? E l'oro, l'avorio, la porpora, una lira, un pugnale, un fiorellino, un alberello?
 
