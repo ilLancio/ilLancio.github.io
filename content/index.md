@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Tutto quel che per qualsivoglia ragione è bello, è bello di per se stesso e si conclude in se stesso, senza che la lode ne costituisca una parte. Ciò che è lodato, quindi, non diviene per questo peggiore né migliore. Lo dico anche a proposito delle cose comunemente definite belle, ad esempio gli oggetti materiali e i prodotti artistici. Invece, ciò che è veramente bello di che altro ha bisogno? Di nulla, esattamente come la legge, come la verità, come la benevolenza o il pudore. Quale di queste cose è bella se è lodata o perde valore se è biasimata? Uno smeraldo diventa peggiore di quel che è, se non viene lodato? E l'oro, l'avorio, la porpora, una lira, un pugnale, un fiorellino, un alberello?
+Rappresèntati ogni uomo che soffra o si lamenti per qualsivoglia motivo simile a un porcellino sacrificato che recalcitra e strilla; simile è anche chi, steso sul suo lettuccio, da solo e in silenzio piange la catena che ci vincola all'universo. Considera che solo all'essere razionale è concesso di seguire volontariamente gli eventi, mentre il semplice seguirli è inevitabile per tutti.
 
