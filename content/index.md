@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Rappresèntati ogni uomo che soffra o si lamenti per qualsivoglia motivo simile a un porcellino sacrificato che recalcitra e strilla; simile è anche chi, steso sul suo lettuccio, da solo e in silenzio piange la catena che ci vincola all'universo. Considera che solo all'essere razionale è concesso di seguire volontariamente gli eventi, mentre il semplice seguirli è inevitabile per tutti.
+«Il bene e il giusto sono con me».
 
