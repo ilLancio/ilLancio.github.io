@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-«Il bene e il giusto sono con me».
+Ricorda sempre l'opinione di Eraclito: «morte della terra è divenire acqua e morte dell'acqua divenire aria e dell'aria divenire fuoco e viceversa». Ricorda anche «chi dimentica dove conduce la via»; e che «gli uomini sono in contrasto proprio con quello con cui sono nel rapporto più assiduo, con la ragione che governa il tutto, e a loro sembrano estranee proprio le cose in cui si imbattono quotidianamente»; e «non si deve agire e parlare come durante il sonno» (anche allora, infatti, ci sembra di agire e di parlare); e non bisogna «quali figli dei genitori...», cioè in base al puro principio del «come abbiamo appreso».
 
