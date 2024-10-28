@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ricorda sempre l'opinione di Eraclito: «morte della terra è divenire acqua e morte dell'acqua divenire aria e dell'aria divenire fuoco e viceversa». Ricorda anche «chi dimentica dove conduce la via»; e che «gli uomini sono in contrasto proprio con quello con cui sono nel rapporto più assiduo, con la ragione che governa il tutto, e a loro sembrano estranee proprio le cose in cui si imbattono quotidianamente»; e «non si deve agire e parlare come durante il sonno» (anche allora, infatti, ci sembra di agire e di parlare); e non bisogna «quali figli dei genitori...», cioè in base al puro principio del «come abbiamo appreso».
+Non ti deve confondere la rappresentazione della vita intera. Non abbracciare col pensiero quali e quante sofferenze, alla fine, è probabile che avrai dovuto sopportare, ma, nel momento in cui ciascuna si presenta, chiedi a te stesso cosa vi sia in questo fatto di insopportabile, di insostenibile. Avrai vergogna di ammettere che possa esservi qualcosa di simile. E poi ricorda a te stesso che non è il futuro né il passato ad opprimerti, ma sempre il presente. Questo, però, si riduce di molto, se lo isoli nei suoi confini, e se metti sotto accusa la tua mente quando essa non sia capace di resistere a un presente così inerme.
 
