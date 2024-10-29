@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Non ti deve confondere la rappresentazione della vita intera. Non abbracciare col pensiero quali e quante sofferenze, alla fine, è probabile che avrai dovuto sopportare, ma, nel momento in cui ciascuna si presenta, chiedi a te stesso cosa vi sia in questo fatto di insopportabile, di insostenibile. Avrai vergogna di ammettere che possa esservi qualcosa di simile. E poi ricorda a te stesso che non è il futuro né il passato ad opprimerti, ma sempre il presente. Questo, però, si riduce di molto, se lo isoli nei suoi confini, e se metti sotto accusa la tua mente quando essa non sia capace di resistere a un presente così inerme.
+Quando un altro ti biasima o ti odia, o quando la gente si esprime sul tuo conto in questi termini, volgiti alle loro anime, penetra all'interno di esse e guarda che genere di uomini sono. Vedrai che non devi darti pena perché abbiano di te una determinata opinione. Tuttavia bisogna essere benevoli con loro: per natura sono amici. Anche gli dèi li aiutano nei modi più diversi, attraverso sogni, attraverso oracoli, e proprio nelle cose che interessano a loro.
 
