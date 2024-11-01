@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-È poco il tempo che ti resta da vivere. Vivi come sulla cima di una montagna: perché non c'è nessuna differenza tra vivere là o qua, se si vive ovunque nell'universo come in una città. Gli uomini vedano, osservino a fondo un uomo vero che vive secondo natura. Se non lo sopportano, lo uccidano: è meglio morire che vivere come loro.
+La ragione e l'arte di ragionare sono facoltà sufficienti a se stesse e al loro operato. Muovono, quindi, da un proprio principio, e procedono verso il fine proposto; di conseguenza, simili azioni vengono chiamate «azioni rette», a indicare il loro percorso rettilineo.
 
