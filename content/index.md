@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La ragione e l'arte di ragionare sono facoltà sufficienti a se stesse e al loro operato. Muovono, quindi, da un proprio principio, e procedono verso il fine proposto; di conseguenza, simili azioni vengono chiamate «azioni rette», a indicare il loro percorso rettilineo.
+Dal grammatico Alessandro: non censurare e non redarguire in maniera offensiva chi parlando incappa in un barbarismo o in un solecismo, ma, con il giusto tatto, limitarsi a pronunciare l'espressione corretta, come se si stesse rispondendo o manifestando la propria approvazione o analizzando la sostanza della questione, non il termine usato, oppure attraverso un'altra forma altrettanto garbata di rilievo.
 
