@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Dal grammatico Alessandro: non censurare e non redarguire in maniera offensiva chi parlando incappa in un barbarismo o in un solecismo, ma, con il giusto tatto, limitarsi a pronunciare l'espressione corretta, come se si stesse rispondendo o manifestando la propria approvazione o analizzando la sostanza della questione, non il termine usato, oppure attraverso un'altra forma altrettanto garbata di rilievo.
+Ricorda che, come non fa onore stupirsi che un fico produca dei fichi, così non fa onore stupirsi che il cosmo produca questo genere di cose, di cui è produttore; ed al medico e al timoniere non fa onore stupirsi, il primo, che il tale abbia preso la febbre, il secondo, che si sia levato un vento contrario.
 
