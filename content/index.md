@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ricorda che, come non fa onore stupirsi che un fico produca dei fichi, così non fa onore stupirsi che il cosmo produca questo genere di cose, di cui è produttore; ed al medico e al timoniere non fa onore stupirsi, il primo, che il tale abbia preso la febbre, il secondo, che si sia levato un vento contrario.
+Tutto ciò che avviene avviene giustamente: lo verificherai, se osservi con attenzione. Non dico soltanto nel senso che avviene in giusta conseguenza, ma nel senso che avviene secondo giustizia e come per opera di qualcuno che assegna quanto spetta secondo il merito. Quindi osserva questo principio, come hai cominciato a fare, e in qualunque azione agisci con il presupposto di essere buono, nel senso in cui è propriamente inteso l'essere «buono». Mantieni questa esigenza in ogni azione.
 
