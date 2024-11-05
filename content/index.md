@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Tutto ciò che avviene avviene giustamente: lo verificherai, se osservi con attenzione. Non dico soltanto nel senso che avviene in giusta conseguenza, ma nel senso che avviene secondo giustizia e come per opera di qualcuno che assegna quanto spetta secondo il merito. Quindi osserva questo principio, come hai cominciato a fare, e in qualunque azione agisci con il presupposto di essere buono, nel senso in cui è propriamente inteso l'essere «buono». Mantieni questa esigenza in ogni azione.
+Non vergognarti di ricevere aiuto: il cómpito che ti attende, infatti, è di fare il tuo dovere come un soldato che combatte sulle mura. E allora? E se tu, azzoppato, non fossi in grado di salire da solo sugli spalti, e ci riuscissi invece con l'aiuto di un altro?
 
