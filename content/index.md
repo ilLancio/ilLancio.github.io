@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Non vergognarti di ricevere aiuto: il cómpito che ti attende, infatti, è di fare il tuo dovere come un soldato che combatte sulle mura. E allora? E se tu, azzoppato, non fossi in grado di salire da solo sugli spalti, e ci riuscissi invece con l'aiuto di un altro?
+Ama unicamente quello che ti accade e viene intrecciato nella tua vita. Che può esservi di più appropriato?
 
