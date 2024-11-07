@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ama unicamente quello che ti accade e viene intrecciato nella tua vita. Che può esservi di più appropriato?
+La completa realizzazione etica include questo: trascorrere ogni giorno come l'ultimo, senza sussulti, senza torpore, senza recite.
 
