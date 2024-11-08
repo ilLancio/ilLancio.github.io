@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La completa realizzazione etica include questo: trascorrere ogni giorno come l'ultimo, senza sussulti, senza torpore, senza recite.
+La sfera dell'anima conserva inalterata la sua forma quando non si protende verso qualcosa, né si ripiega al suo interno, né si disperde, né si adagia, ma risplende della luce con cui vede la verità di ogni cosa e la verità che ha in sé.
 
