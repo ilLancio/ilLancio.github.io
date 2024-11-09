@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La sfera dell'anima conserva inalterata la sua forma quando non si protende verso qualcosa, né si ripiega al suo interno, né si disperde, né si adagia, ma risplende della luce con cui vede la verità di ogni cosa e la verità che ha in sé.
+Un ramo reciso dal ramo cui era unito non può non restare reciso anche dall'intera pianta; così pure un essere umano staccato da uno solo dei suoi simili rimane avulso dall'intera comunità. Ora, un ramo lo recide un altro, mentre è l'uomo, quando prova odio e avversione per il prossimo, che divide se stesso da lui: senza sapere, però, che nel contempo si è reciso da tutto l'organismo sociale. Ma qui è il privilegio di cui ci ha fatto dono Zeus, che instaurò il vincolo sociale: abbiamo la possibilità di tornare in coesione con il prossimo e di concorrere, ancora, a realizzare il tutto. Una simile separazione, tuttavia, se si ripete troppe volte, rende l'elemento che si distacca difficilmente riconducibile all'unità e alla condizione precedente. Insomma, il ramo che dal primo germoglio è cresciuto insieme con l'albero e con esso ha sempre respirato non è uguale al ramo reinnestato dopo essere stato reciso, checché ne dicano i giardinieri. Condividere la stessa pianta, non gli stessi principî.
 
