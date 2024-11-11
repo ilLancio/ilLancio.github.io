@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La natura universale dalla sostanza universale, come dalla cera, ora ha plasmato un cavallo, poi lo ha fuso e ha usato la sua materia per un albero, poi per un uomo, poi per qualcos'altro; e ciascuno di questi esseri è sorto per durare brevissimo tempo. Ma per un cofanetto non c'è nulla di terribile nell'essere distrutto come neppure nell'essere costruito.
+Bisogna anche che il corpo sia saldo e non venga agitato, né in movimento né in quiete. Bisogna esigere anche per l'intero corpo un risultato analogo a quello che la mente ottiene nel caso del volto, che essa sa conservare composto e decoroso. Ma a tutto questo si deve provvedere senza affettazione.
 
