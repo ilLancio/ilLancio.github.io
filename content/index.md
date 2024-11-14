@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Nessuno deve poter dire di te, parlando sinceramente, che non sei semplice o che non sei virtuoso: chi avrà un'opinione del genere a tuo riguardo dovrà mentire. Il che dipende completamente da te: chi, infatti, ti impedisce di essere virtuoso e semplice? Hai soltanto da decidere di non vivere più, se non sarai così. Neppure la ragione, infatti, sceglie che tu viva, se non sei così.
+Conségnati spontaneamente a Cloto, lasciando che ti intrecci con qualsiasi fatto voglia.
 
