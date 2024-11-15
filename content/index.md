@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Conségnati spontaneamente a Cloto, lasciando che ti intrecci con qualsiasi fatto voglia.
+Riacquista i sensi, riprenditi, e, una volta che ti sarai liberato dal sonno e ti sarai reso conto che quelli che ti turbavano erano solo sogni, allora, di nuovo sveglio, guarda queste cose come guardavi quelle.
 
