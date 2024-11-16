@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Riacquista i sensi, riprenditi, e, una volta che ti sarai liberato dal sonno e ti sarai reso conto che quelli che ti turbavano erano solo sogni, allora, di nuovo sveglio, guarda queste cose come guardavi quelle.
+Con gli animali sprovvisti di ragione e, in generale, con le cose e gli oggetti sensibili abbi un atteggiamento magnanimo e libero, come deve avere chi possiede la ragione con quanto ne è privo; con gli uomini, invece, abbi l'atteggiamento che conviene avere con chi possiede la ragione e che risponde ai principî della società. A ogni circostanza invoca gli dèi e non porti il problema: «per quanto tempo potrò agire in questo modo?», perché sono sufficienti anche tre ore vissute così.
 
