@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Con gli animali sprovvisti di ragione e, in generale, con le cose e gli oggetti sensibili abbi un atteggiamento magnanimo e libero, come deve avere chi possiede la ragione con quanto ne è privo; con gli uomini, invece, abbi l'atteggiamento che conviene avere con chi possiede la ragione e che risponde ai principî della società. A ogni circostanza invoca gli dèi e non porti il problema: «per quanto tempo potrò agire in questo modo?», perché sono sufficienti anche tre ore vissute così.
+Insomma: non devi più discutere su come debba essere un uomo virtuoso, ma esserlo.
 
