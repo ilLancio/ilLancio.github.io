@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Il modo migliore di difendersi è non assimilarsi.
+...un carattere malvagio, un carattere femmineo, un carattere duro, feroce, bestiale, puerile, inerte, falso, da buffone, da mercante, da tiranno.
 
