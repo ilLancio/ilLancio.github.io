@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-...un carattere malvagio, un carattere femmineo, un carattere duro, feroce, bestiale, puerile, inerte, falso, da buffone, da mercante, da tiranno.
+Tutto è opinione. Sono evidenti, infatti, le parole rivolte a Monimo il Cinico; ed è evidente anche l'utilità di quelle parole, se uno ne accetta il succo nei limiti della loro veridicità.
 
