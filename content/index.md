@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Tutto è opinione. Sono evidenti, infatti, le parole rivolte a Monimo il Cinico; ed è evidente anche l'utilità di quelle parole, se uno ne accetta il succo nei limiti della loro veridicità.
+«La terra ama la pioggia, e la ama anche il venerabile etere»; e il cosmo ama fare tutto ciò che deve accadere. Ora, al cosmo dico: «Amo con te». Non si dice anche, comunemente, che una data cosa «ama accadere»?
 
