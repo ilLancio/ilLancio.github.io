@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Nessuno si stanca di ricevere benefici. I benefici sono azioni secondo natura: quindi non stancarti di riceverne, nel momento in cui ne fai.
+Da dove possiamo sapere se Telauge non avesse una disposizione morale superiore a quella di Socrate? Non basta, infatti, che Socrate abbia avuto una morte più gloriosa, che disputasse più abilmente con i sofisti, che abbia rivelato la sua straordinaria resistenza fisica nel passare la notte al gelo, che, ricevuto l'ordine di arrestare quell'uomo di Salamina, abbia così nobilmente ritenuto di trasgredirlo, e che per la strada camminasse con aria spavalda - fatto, questo, su cui bisognerebbe soffermarsi con molta attenzione, se fosse vero. Occorre invece esaminare questo: quale anima avesse Socrate, se sapesse accontentarsi di essere giusto nei rapporti con gli uomini e pio nei rapporti con gli dèi, senza irritarsi gratuitamente contro la malvagità, senza esser schiavo dell'ignoranza di alcuno, senza ricevere come estraneo e subire come intollerabile nulla di ciò che, entro l'ordine universale, gli veniva assegnato, e senza permettere all'intelletto di partecipare alle passioni della carne.
 
