@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-E: ciò che è nato dalla terra torna alla terra, e le stirpi germogliate dall'etere tornano alla volta eterea; in altri termini: dissolvimento dei reciproci legami degli atomi e una consimile dispersione degli elementi non passibili.
+Parla conforme a natura, in senato e con chiunque: con decoro, senza affettazione; usa un linguaggio sincero.
 
