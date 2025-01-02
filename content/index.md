@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-...quali piaceri hanno goduto briganti, invertiti, parricidi, tiranni.
+Osserva il corso degli astri, come ruotando insieme con essi, e considera continuamente il reciproco trasformarsi di un elemento nell'altro: la rappresentazione di queste cose purifica dalla lordura della vita su questa terra.
 
