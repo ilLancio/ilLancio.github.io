@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Osserva il corso degli astri, come ruotando insieme con essi, e considera continuamente il reciproco trasformarsi di un elemento nell'altro: la rappresentazione di queste cose purifica dalla lordura della vita su questa terra.
+Un ragno è orgoglioso di aver catturato una mosca; qualcuno è orgoglioso di aver catturato un leprotto, altri di aver preso un'acciuga nella rete, chi di aver preso dei cinghiali, chi degli orsi, chi dei Sarmati. Del resto non sono forse briganti, se esamini i loro principî?
 
