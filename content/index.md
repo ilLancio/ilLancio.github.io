@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Il modo migliore di difendersi è non assimilarsi.
+Si disprezzano l'un l'altro, eppure cercano di compiacersi l'un l'altro, e mentre tentano di sovrastarsi si inchinano l'uno all'altro.
 
