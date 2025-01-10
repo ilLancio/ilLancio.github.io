@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ciò che non rende un uomo peggiore di quel che è, non rende peggiore neppure la sua vita, e non la danneggia, né dall'esterno né dall'interno.
+Considera continuamente come anche prima tutto avvenisse tale quale avviene ora; e considera che avverrà anche in futuro. E poniti dinanzi agli occhi interi drammi e scene del medesimo tenore, quanti ne conosci per tua esperienza personale o dalla storia precedente, ad esempio tutta la corte di Adriano, tutta la corte di Antonino, di Filippo, di Alessandro, di Creso: era tutto come adesso, solo con altri personaggi.
 
