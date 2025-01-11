@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Considera continuamente come anche prima tutto avvenisse tale quale avviene ora; e considera che avverrà anche in futuro. E poniti dinanzi agli occhi interi drammi e scene del medesimo tenore, quanti ne conosci per tua esperienza personale o dalla storia precedente, ad esempio tutta la corte di Adriano, tutta la corte di Antonino, di Filippo, di Alessandro, di Creso: era tutto come adesso, solo con altri personaggi.
+Molte volte commette ingiustizia non solo chi fa, ma anche chi non fa qualcosa.
 
