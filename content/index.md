@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Molte volte commette ingiustizia non solo chi fa, ma anche chi non fa qualcosa.
+Quando tu hai fatto del bene e un altro lo ha ricevuto, qual è il terzo risultato che insegui, come gli sciocchi, oltre a questi due? La fama di benefattore? O il contraccambio?
 
