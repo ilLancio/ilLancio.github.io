@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Quando tu hai fatto del bene e un altro lo ha ricevuto, qual è il terzo risultato che insegui, come gli sciocchi, oltre a questi due? La fama di benefattore? O il contraccambio?
+Osserva gli elementi causali spogli della loro corteccia; il fine delle azioni; cos'è il dolore; cos'è il piacere; cos'è la morte; cos'è la gloria; chi è il responsabile della propria inquietudine; come nessuno possa essere impedito da altri; che tutto è opinione.
 
