@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Osserva gli elementi causali spogli della loro corteccia; il fine delle azioni; cos'è il dolore; cos'è il piacere; cos'è la morte; cos'è la gloria; chi è il responsabile della propria inquietudine; come nessuno possa essere impedito da altri; che tutto è opinione.
+Pensa continuamente al cosmo come a un solo essere che racchiude una sola sostanza e una sola anima, e pensa come tutto pervenga a una sola sensazione, la sua, come quest'essere compia tutto per un solo impulso, come tutte le cose siano concausa di tutti gli eventi, e quale sia il loro fitto intrecciarsi e connettersi.
 
