@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Pensa continuamente al cosmo come a un solo essere che racchiude una sola sostanza e una sola anima, e pensa come tutto pervenga a una sola sensazione, la sua, come quest'essere compia tutto per un solo impulso, come tutte le cose siano concausa di tutti gli eventi, e quale sia il loro fitto intrecciarsi e connettersi.
+Quale minuscola parte dell'infinito abisso del tempo è stata assegnata a ciascuno? In men che si dica svanisce nell'eternità. Quale minuscola parte dell'intera sostanza? Quale dell'intera anima? In quale minuscola zolla della terra intera cammini? Considerando tutto ciò non immaginare che esista nulla di grande all'infuori dell'agire come ti induce la tua natura e del subire quello che reca la natura comune.
 
