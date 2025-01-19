@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ricorda l'intera sostanza, della quale partecipi in entità minima; l'intera eternità, di cui ti è stato assegnato un breve, infinitesimale intervallo; e il destino, di cui tu quale minuscola parte sei?
+La natura dell'universo seguì l'impulso di costruire il cosmo. Ora, o tutto ciò che avviene avviene in conseguenza di quell'atto, oppure sono irrazionali anche le cose più importanti, verso le quali il principio dirigente del cosmo orienta un particolare impulso. Questo principio, richiamato alla memoria, ti renderà più sereno verso molte cose.
 
