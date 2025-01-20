@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La natura dell'universo seguì l'impulso di costruire il cosmo. Ora, o tutto ciò che avviene avviene in conseguenza di quell'atto, oppure sono irrazionali anche le cose più importanti, verso le quali il principio dirigente del cosmo orienta un particolare impulso. Questo principio, richiamato alla memoria, ti renderà più sereno verso molte cose.
+Perché anime senz'arte e ignoranti confondono un'anima che ha arte e scienza? Ma qual è, allora, l'anima che ha arte e scienza? Quella che conosce l'inizio e la fine e la ragione che attraversa l'intera sostanza e che lungo tutta l'eternità governa il tutto per periodi definiti.
 
