@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Perché anime senz'arte e ignoranti confondono un'anima che ha arte e scienza? Ma qual è, allora, l'anima che ha arte e scienza? Quella che conosce l'inizio e la fine e la ragione che attraversa l'intera sostanza e che lungo tutta l'eternità governa il tutto per periodi definiti.
+Il principio dirigente è quello che desta se stesso, orienta, rende se stesso quale vuole essere, e a se stesso fa apparire ogni evento quale vuole che sia.
 
