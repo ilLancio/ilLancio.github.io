@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Il principio dirigente è quello che desta se stesso, orienta, rende se stesso quale vuole essere, e a se stesso fa apparire ogni evento quale vuole che sia.
+La luce del sole sembra essere diffusa - e in effetti è diffusa ovunque -, e tuttavia non è effusa: questo diffondersi, infatti, è un estendersi. I suoi fulgori, pertanto, ricevono il nome di raggi per il fatto che si irradiano. E puoi vedere di che natura sia un raggio se osservi la luce del sole penetrare in una camera buia attraverso una stretta fessura: si estende dritta avanti a sé e in certo modo si appoggia su qualunque oggetto solido le si opponga precludendole l'aria che si trova al di là dell'oggetto stesso; qui il raggio si ferma e non scivola né cade. Ebbene, così deve scorrere e diffondersi il pensiero: non effondersi, ma distendersi, e non giungere a un impatto violento e dirompente con gli ostacoli che incontra, e neppure cadere, ma arrestarsi e illuminare l'oggetto che lo riceve. Sarà l'oggetto che non riflette la sua luce a privarsene.
 
