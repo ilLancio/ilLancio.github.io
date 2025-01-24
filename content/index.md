@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Nessuno si stanca di ricevere benefici. I benefici sono azioni secondo natura: quindi non stancarti di riceverne, nel momento in cui ne fai.
+Non lasciarti turbare dal futuro: ci arriverai, se dovrai arrivarci, con la stessa ragione che ora usi per il presente.
 
