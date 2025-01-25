@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Non lasciarti turbare dal futuro: ci arriverai, se dovrai arrivarci, con la stessa ragione che ora usi per il presente.
+Hai la ragione? Sì. Allora perché non la usi? Quando essa, infatti, svolge il proprio cómpito, che altro vuoi?
 
