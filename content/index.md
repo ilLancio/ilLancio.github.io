@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Hai la ragione? Sì. Allora perché non la usi? Quando essa, infatti, svolge il proprio cómpito, che altro vuoi?
+Prendimi e gettami dove vuoi. Là, infatti, manterrò il mio demone sereno, cioè pago di avere una disposizione e un'attività conformi a ciò che risponde alla sua costituzione. Il valore di questa cosa è forse tale che per essa la mia anima debba subire un turbamento e divenire peggiore, avvilendosi, bramando, facendosi anch'essa sommergere, spaventandosi? E cosa troverai che abbia tanto valore?
 
