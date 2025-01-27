@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Prendimi e gettami dove vuoi. Là, infatti, manterrò il mio demone sereno, cioè pago di avere una disposizione e un'attività conformi a ciò che risponde alla sua costituzione. Il valore di questa cosa è forse tale che per essa la mia anima debba subire un turbamento e divenire peggiore, avvilendosi, bramando, facendosi anch'essa sommergere, spaventandosi? E cosa troverai che abbia tanto valore?
+Ad ogni cosa che qualcuno fa abìtuati, per quanto possibile, a indagare dentro di te: «A cosa mira costui con quest'azione?». Ma comincia da te e esamina per primo te stesso.
 
