@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ad ogni cosa che qualcuno fa abìtuati, per quanto possibile, a indagare dentro di te: «A cosa mira costui con quest'azione?». Ma comincia da te e esamina per primo te stesso.
+«Si deve trovare un'arte che regoli l'assenso - diceva - e, nel campo degli impulsi, prestare sempre attenzione a che siano impulsi con riserva, rispondenti al bene collettivo, commisurati al valore dell'oggetto; e ci si deve assolutamente astenere sia dal desiderio sia dall'uso dell'avversione per tutto ciò che non dipende da noi».
 
