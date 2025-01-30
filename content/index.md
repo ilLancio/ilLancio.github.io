@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Com'è marcio e falso chi dice: «Mi sono proposto di essere franco con te». Che fai, amico? Non c'è bisogno di una simile premessa. Questo risulterà da sé: deve star scritto in fronte, deve risuonare sùbito nella voce, deve affiorare sùbito nello sguardo, come nello sguardo degli amanti tutto è immediatamente chiaro per l'amato. L'uomo franco e onesto, insomma, dev'essere come la persona che puzza di capra, perché chi gli è vicino se ne accorga, lo voglia o no, appena gli si accosta. La franchezza affettata è un pugnale. Nulla è più turpe dell'amicizia del lupo: rifuggila più di ogni altra cosa. L'uomo onesto, franco e benevolo ha queste qualità negli occhi, e non passano inosservate.
+Quando un altro ti biasima o ti odia, o quando la gente si esprime sul tuo conto in questi termini, volgiti alle loro anime, penetra all'interno di esse e guarda che genere di uomini sono. Vedrai che non devi darti pena perché abbiano di te una determinata opinione. Tuttavia bisogna essere benevoli con loro: per natura sono amici. Anche gli dèi li aiutano nei modi più diversi, attraverso sogni, attraverso oracoli, e proprio nelle cose che interessano a loro.
 
