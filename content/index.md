@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Imperturbabilità circa le cose che provengono dalla causa esterna, giustizia nelle cose che si producono per la causa che deriva da te; ossia impulso e azione che si esauriscono proprio nell'agire in vista del bene comune, poiché questo è per te secondo natura.
+Tutto quanto vedi ben presto perirà, e ben presto periranno anche quegli stessi che l'hanno visto perire. E chi muore nella vecchiaia estrema passerà alla medesima condizione di chi è morto prima del tempo.
 
