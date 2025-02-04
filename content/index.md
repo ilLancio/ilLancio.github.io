@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Tutto quanto vedi ben presto perirà, e ben presto periranno anche quegli stessi che l'hanno visto perire. E chi muore nella vecchiaia estrema passerà alla medesima condizione di chi è morto prima del tempo.
+Abìtuati a considerare con estrema attenzione le parole degli altri, e per quanto puoi entra nell'anima di chi sta parlando.
 
