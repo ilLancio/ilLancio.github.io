@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Abìtuati a considerare con estrema attenzione le parole degli altri, e per quanto puoi entra nell'anima di chi sta parlando.
+[Sul dolore] Ciò che è insopportabile uccide, ciò che invece perdura è sopportabile; la mente, ritirandosi in se stessa, mantiene la propria quiete, e il principio dirigente non riceve danno. Quanto alle parti danneggiate dal dolore, dichiarino, se sono in grado, la loro sofferenza.
 
