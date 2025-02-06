@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-[Sul dolore] Ciò che è insopportabile uccide, ciò che invece perdura è sopportabile; la mente, ritirandosi in se stessa, mantiene la propria quiete, e il principio dirigente non riceve danno. Quanto alle parti danneggiate dal dolore, dichiarino, se sono in grado, la loro sofferenza.
+È ridicolo non cercare di sottrarsi alla propria malvagità, come sarebbe possibile, e cercare di sottrarsi a quella degli altri, cosa impossibile.
 
