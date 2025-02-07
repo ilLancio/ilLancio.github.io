@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-È ridicolo non cercare di sottrarsi alla propria malvagità, come sarebbe possibile, e cercare di sottrarsi a quella degli altri, cosa impossibile.
+Si disprezzano l'un l'altro, eppure cercano di compiacersi l'un l'altro, e mentre tentano di sovrastarsi si inchinano l'uno all'altro.
 
