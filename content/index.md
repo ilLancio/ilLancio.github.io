@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Insomma: non devi più discutere su come debba essere un uomo virtuoso, ma esserlo.
+...quali piaceri hanno goduto briganti, invertiti, parricidi, tiranni.
 
