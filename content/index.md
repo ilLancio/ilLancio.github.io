@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-...quali piaceri hanno goduto briganti, invertiti, parricidi, tiranni.
+Chi cerca la fama ripone il proprio bene in un'attività altrui, chi cerca il piacere nella propria passività: chi ha senno, nella propria azione.
 
