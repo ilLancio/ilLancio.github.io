@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La ragione che governa sa con quale disposizione e che cosa compie, e nell'àmbito di quale materia.
+Rivolgiti ora alla qualità della causa e osservala in sé, dopo averla isolata dalla materia; poi definisci anche il tempo massimo per il quale questa particolare qualità può sussistere.
 
