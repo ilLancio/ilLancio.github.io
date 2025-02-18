@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Rivolgiti ora alla qualità della causa e osservala in sé, dopo averla isolata dalla materia; poi definisci anche il tempo massimo per il quale questa particolare qualità può sussistere.
+Qualunque cosa sia questo che sono, è infine carne, soffio vitale e principio dirigente. Getta via i libri, non ti far più distrarre: non è consentito. E invece, come se fossi a un passo dalla morte, disprezza la carne: coagulo di sangue, ossa, ordito intessuto di nervi, vene, intrico di arterie. Poi osserva anche quale sia la natura del tuo soffio vitale: vento, e neppure sempre lo stesso, ma un alito che, a ogni istante, viene emesso e riaspirato. Per terzo viene il principio dirigente. Qui rifletti: sei vecchio; non consentire più che questo principio sia schiavo, che come una marionetta sia manovrato da un impulso individualistico, che recrimini contro il destino presente o guardi con ansia quello futuro.
 
