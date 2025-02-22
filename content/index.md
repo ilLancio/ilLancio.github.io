@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-«Giudicando - come dice - con i più sapienti...», non vedo nella costituzione dell'essere razionale una virtù che insorga contro la giustizia: contro il piacere, invece, vedo insorgere la continenza.
+Degli esseri che si trovano nel cosmo onora il migliore: è quello che di tutto dispone e tutto governa. Allo stesso modo, anche di quanto si trova in te onora il meglio: è ciò che condivide la natura di quell'essere supremo; anche in te, infatti, è quello che dispone di tutto il resto, e la tua vita è sotto il suo governo.
 
