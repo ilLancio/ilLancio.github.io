@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Alessandro, Caio e Pompeo che cosa sono di fronte a Diogene ed Eraclito e Socrate? Questi ultimi, infatti, videro la realtà, le cause e le materie, e i loro principî dirigenti erano autonomi: là, invece, di quante cose preoccuparsi, e di quante essere schiavi!
+«E se dagli dèi siamo stati trascurati io e i miei due figli, anche questo ha la sua ragione».
 
