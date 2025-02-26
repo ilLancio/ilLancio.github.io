@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-«E se dagli dèi siamo stati trascurati io e i miei due figli, anche questo ha la sua ragione».
+A ciascuno reca vantaggio quel che a ciascuno la natura universale arreca, e reca vantaggio nel preciso momento in cui la natura lo arreca.
 
