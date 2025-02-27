@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-A ciascuno reca vantaggio quel che a ciascuno la natura universale arreca, e reca vantaggio nel preciso momento in cui la natura lo arreca.
+Per quale scopo debbo usare ora la mia anima? In ogni singola circostanza poniti questa domanda e verifica: «Cosa c'è, ora, in questa parte di me che chiamano principio dirigente, e di chi, ora, ho l'anima: di un bambino? di un ragazzino? di una donnetta? di un tiranno? di un animale da allevamento? di un animale selvatico?».
 
