@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Per quale scopo debbo usare ora la mia anima? In ogni singola circostanza poniti questa domanda e verifica: «Cosa c'è, ora, in questa parte di me che chiamano principio dirigente, e di chi, ora, ho l'anima: di un bambino? di un ragazzino? di una donnetta? di un tiranno? di un animale da allevamento? di un animale selvatico?».
+Su questo punto è possibile non formarsi alcuna opinione e, quindi, non turbare la propria anima - di per sé, infatti, le cose non hanno natura atta a produrre i nostri giudizi.
 
