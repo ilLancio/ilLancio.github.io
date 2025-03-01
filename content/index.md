@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Su questo punto è possibile non formarsi alcuna opinione e, quindi, non turbare la propria anima - di per sé, infatti, le cose non hanno natura atta a produrre i nostri giudizi.
+Osserva il corso degli astri, come ruotando insieme con essi, e considera continuamente il reciproco trasformarsi di un elemento nell'altro: la rappresentazione di queste cose purifica dalla lordura della vita su questa terra.
 
