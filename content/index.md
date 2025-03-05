@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La sostanza dell'universo è docile e duttile; e la ragione che la governa non ha in sé nessuna causa per cui debba produrre il male: perché in sé non ha male, a nulla fa del male e non c'è nulla che ne venga danneggiato. Tutto, invece, avviene e si compie secondo la ragione dell'universo.
+Com'è ridicolo e straniero chi si meraviglia di qualunque cosa succeda nella vita!
 
