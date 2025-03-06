@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Com'è ridicolo e straniero chi si meraviglia di qualunque cosa succeda nella vita!
+Fa conto di esser morto, di aver concluso ora la tua esistenza: devi vivere il resto dei tuoi giorni come un di più, secondo natura.
 
