@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Fa conto di esser morto, di aver concluso ora la tua esistenza: devi vivere il resto dei tuoi giorni come un di più, secondo natura.
+Se qualcosa ti si presenta difficile da realizzare, non pensare che sia impossibile per l'uomo; piuttosto, se qualcosa è possibile e appropriato all'uomo, consideralo raggiungibile anche per te.
 
