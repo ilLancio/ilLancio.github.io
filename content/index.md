@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Se qualcosa ti si presenta difficile da realizzare, non pensare che sia impossibile per l'uomo; piuttosto, se qualcosa è possibile e appropriato all'uomo, consideralo raggiungibile anche per te.
+La natura universale dalla sostanza universale, come dalla cera, ora ha plasmato un cavallo, poi lo ha fuso e ha usato la sua materia per un albero, poi per un uomo, poi per qualcos'altro; e ciascuno di questi esseri è sorto per durare brevissimo tempo. Ma per un cofanetto non c'è nulla di terribile nell'essere distrutto come neppure nell'essere costruito.
 
