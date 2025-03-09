@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La natura universale dalla sostanza universale, come dalla cera, ora ha plasmato un cavallo, poi lo ha fuso e ha usato la sua materia per un albero, poi per un uomo, poi per qualcos'altro; e ciascuno di questi esseri è sorto per durare brevissimo tempo. Ma per un cofanetto non c'è nulla di terribile nell'essere distrutto come neppure nell'essere costruito.
+Presto sarai morto, e ancora non sei semplice, imperturbabile, certo di non poter subire danno dall'esterno, benevolo verso tutti; e ancora non riponi la saggezza unicamente nell'agire secondo giustizia.
 
