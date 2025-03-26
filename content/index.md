@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Alla natura che dà e riprende ogni cosa l'uomo istruito e rispettoso dice: «dammi ciò che vuoi, riprenditi ciò che vuoi». E non lo dice con aria di sfida, ma soltanto perché è docile e ben disposto verso la natura.
+Come ti infastidiscono i giochi dell'anfiteatro e di simili luoghi, perché vedi sempre le stesse cose e la monotonia dello spettacolo sazia fino alla nausea, provi lo stesso fastidio anche per l'intera esistenza: tutto, infatti, nel suo su e giù, è la medesima cosa e ha la medesima origine. Fino a quando, dunque?
 
