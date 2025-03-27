@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Come ti infastidiscono i giochi dell'anfiteatro e di simili luoghi, perché vedi sempre le stesse cose e la monotonia dello spettacolo sazia fino alla nausea, provi lo stesso fastidio anche per l'intera esistenza: tutto, infatti, nel suo su e giù, è la medesima cosa e ha la medesima origine. Fino a quando, dunque?
+La morte è, tale quale la nascita, un mistero della natura: aggregazione degli stessi elementi agli stessi elementi; non certo, insomma, qualcosa di cui ci si debba vergognare: infatti non contrasta con la condizione di un essere razionale né contrasta con il criterio della sua costituzione.
 
