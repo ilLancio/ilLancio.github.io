@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La morte è, tale quale la nascita, un mistero della natura: aggregazione degli stessi elementi agli stessi elementi; non certo, insomma, qualcosa di cui ci si debba vergognare: infatti non contrasta con la condizione di un essere razionale né contrasta con il criterio della sua costituzione.
+Quando uno sbaglia nei tuoi confronti, considera sùbito quale opinione sul bene o sul male lo ha spinto all'errore: se riuscirai a capirlo proverai compassione per lui e non sarai più sorpreso né adirato. Infatti, se hai ancora, anche tu, la sua stessa opinione del bene, o ne hai una simile, devi scusarlo; se invece la tua opinione del bene e del male non è più di questo genere, ti sarà più facile essere indulgente con chi sbaglia.
 
