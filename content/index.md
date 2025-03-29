@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Quando uno sbaglia nei tuoi confronti, considera sùbito quale opinione sul bene o sul male lo ha spinto all'errore: se riuscirai a capirlo proverai compassione per lui e non sarai più sorpreso né adirato. Infatti, se hai ancora, anche tu, la sua stessa opinione del bene, o ne hai una simile, devi scusarlo; se invece la tua opinione del bene e del male non è più di questo genere, ti sarà più facile essere indulgente con chi sbaglia.
+Cercare un fico in inverno è da folli; folle è chi cerca il figlioletto, quando non gli è più concesso.
 
