@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Cercare un fico in inverno è da folli; folle è chi cerca il figlioletto, quando non gli è più concesso.
+Il pentimento è una sorta di rimprovero che uno fa a se stesso per aver tralasciato qualcosa di utile; ma è il bene che deve costituire qualcosa di utile, e l'uomo moralmente superiore deve praticarlo; nessun uomo moralmente superiore, però, potrebbe mai pentirsi di aver tralasciato qualche piacere: pertanto il piacere non è una cosa utile né un bene.
 
