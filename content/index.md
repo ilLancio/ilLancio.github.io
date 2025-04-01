@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-I moti degli elementi: verso l'alto, verso il basso, in circolo. Il movimento della virtù, invece, non rientra in nessuno di questi, ma è qualcosa di più divino, e compie felicemente il suo corso procedendo per una via difficile da concepire.
+Sei un'animuccia che porta un cadavere, come diceva Epitteto.
 
