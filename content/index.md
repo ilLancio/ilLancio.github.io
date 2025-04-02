@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Sei un'animuccia che porta un cadavere, come diceva Epitteto.
+A ciascuno reca vantaggio quel che a ciascuno la natura universale arreca, e reca vantaggio nel preciso momento in cui la natura lo arreca.
 
