@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Biasimeranno la virtù, mormorando dure parole.
+Per l'essere razionale la medesima azione che è conforme a natura è anche conforme a ragione.
 
