@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Futilità di un corteo trionfale, drammi in scena, greggi, mandrie, combattimenti con la lancia, un osso gettato a dei botoli, un boccone di pane nelle vasche dei pesci, affannarsi di formiche sotto il carico, topolini impauriti che corrono qua e là, marionette mosse con i fili. In queste situazioni bisogna mantenere un atteggiamento benevolo, senza ombra di alterigia, pur osservando che ciascuno vale tanto quanto valgono le cose cui ha rivolto il suo impegno.
+Qual è la tua arte? Essere virtuoso. E questo in che altro modo può realizzarsi se non sulla base di principî relativi, da un lato, alla natura universale, dall'altro, alla particolare costituzione dell'uomo?
 
