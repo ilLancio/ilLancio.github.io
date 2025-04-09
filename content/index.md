@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Qual è la tua arte? Essere virtuoso. E questo in che altro modo può realizzarsi se non sulla base di principî relativi, da un lato, alla natura universale, dall'altro, alla particolare costituzione dell'uomo?
+Quando ti pesa svegliarti, ricorda che produrre azioni rivolte al bene comune è conforme alla tua costituzione e alla natura umana, mentre dormire è comune anche agli esseri irrazionali; e ciò che per ciascuno è conforme a natura gli è più appropriato e congeniale, e anche più gradito.
 
