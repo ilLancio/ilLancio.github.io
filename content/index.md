@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Insomma: non devi più discutere su come debba essere un uomo virtuoso, ma esserlo.
+Venera la facoltà di concepire un'opinione: dipende totalmente da questa che nel tuo principio dirigente non insorga più un'opinione incorente con la natura e con la costituzione dell'essere razionale. Ed è questa che promette un'attitudine non precipitosa e la familiarità con gli uomini e l'obbedienza agli dèi.
 
