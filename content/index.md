@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Cessazione di un'attività, di un impulso; pausa e, diciamo, morte di un'opinione: nulla di male. Passa ora alle varie età della vita: l'infanzia, l'adolescenza, la giovinezza, la vecchiaia; anche per esse, infatti, ogni trasformazione è una morte. C'è forse qualcosa da temere? Passa ora alla vita che hai trascorso sotto tuo nonno, poi alla vita trascorsa sotto tua madre, poi alla vita trascorsa sotto tuo padre; e di fronte a tante altre distruzioni, trasformazioni, cessazioni, chiedi a te stesso: «c'è qualcosa da temere?». Così non è da temere neppure la cessazione, la fine, la trasformazione della tua intera vita.
+Ogni singolo essere esiste per uno scopo: il cavallo, la vite... Perché ti stupisci? Anche il sole dirà: «Esisto per un determinato cómpito», e così pure gli altri dèi. E tu, allora, per quale scopo esisti? Per godere? Vedi tu se il concetto sia ammissibile.
 
