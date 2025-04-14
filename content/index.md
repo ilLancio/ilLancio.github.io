@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ogni singolo essere esiste per uno scopo: il cavallo, la vite... Perché ti stupisci? Anche il sole dirà: «Esisto per un determinato cómpito», e così pure gli altri dèi. E tu, allora, per quale scopo esisti? Per godere? Vedi tu se il concetto sia ammissibile.
+Quale minuscola parte dell'infinito abisso del tempo è stata assegnata a ciascuno? In men che si dica svanisce nell'eternità. Quale minuscola parte dell'intera sostanza? Quale dell'intera anima? In quale minuscola zolla della terra intera cammini? Considerando tutto ciò non immaginare che esista nulla di grande all'infuori dell'agire come ti induce la tua natura e del subire quello che reca la natura comune.
 
