@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Sei un'animuccia che porta un cadavere, come diceva Epitteto.
+Tutte le cose si intrecciano tra loro e il loro legame è sacro, e si può dire che non ci sia cosa estranea alle altre, perché tutte sono coordinate e concorrono all'ordine del medesimo cosmo. Unico, infatti, è il cosmo formato da tutte le cose, unico il dio che pervade ogni cosa, unica la sostanza, unica la legge, comune la ragione di tutti gli esseri provvisti di intelligenza, unica la verità, poiché unica è pure la compiutezza degli esseri che hanno la stessa origine e partecipano della stessa ragione.
 
