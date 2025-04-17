@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Tutte le cose si intrecciano tra loro e il loro legame è sacro, e si può dire che non ci sia cosa estranea alle altre, perché tutte sono coordinate e concorrono all'ordine del medesimo cosmo. Unico, infatti, è il cosmo formato da tutte le cose, unico il dio che pervade ogni cosa, unica la sostanza, unica la legge, comune la ragione di tutti gli esseri provvisti di intelligenza, unica la verità, poiché unica è pure la compiutezza degli esseri che hanno la stessa origine e partecipano della stessa ragione.
+Se qualcuno ti dà motivo di rappresentarti una sua colpa, ragiona: «E che ne so, se questa è una colpa?»; e, se è effettivamente colpevole, pensa che si è condannato da sé, e questo suo comportamento somiglia al gesto di chi si graffia il viso con le proprie mani. Chi pretende che il malvagio non sbagli è come chi pretende che il fico non produca lattice nei suoi frutti, che i neonati non piangano, che il cavallo non nitrisca, e così via, per tutti questi fenomeni necessari. In effetti, che cosa dovrebbe fare chi ha una simile disposizione? Se sei tanto irritato, curala.
 
