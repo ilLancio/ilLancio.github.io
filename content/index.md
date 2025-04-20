@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Oggi mi sono allontanato da ogni fastidio; o meglio, ho gettato via ogni fastidio: perché non era fuori, ma dentro, nelle mie opinioni.
+Non è possibile leggere. Ma è possibile respingere la prepotenza; è possibile dominare piaceri e dolori; è possibile sollevarsi al di sopra della fama; è possibile non adirarsi con gli insensibili e gli ingrati, e, in più, prendersi cura di loro.
 
