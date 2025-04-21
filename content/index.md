@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Non è possibile leggere. Ma è possibile respingere la prepotenza; è possibile dominare piaceri e dolori; è possibile sollevarsi al di sopra della fama; è possibile non adirarsi con gli insensibili e gli ingrati, e, in più, prendersi cura di loro.
+Sei venuto al mondo come parte. Scomparirai dentro ciò che ti ha generato, o meglio sarai riassunto, attraverso trasformazione, nella sua ragione seminale.
 
