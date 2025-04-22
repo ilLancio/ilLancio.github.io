@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Sei venuto al mondo come parte. Scomparirai dentro ciò che ti ha generato, o meglio sarai riassunto, attraverso trasformazione, nella sua ragione seminale.
+Biasimeranno la virtù, mormorando dure parole.
 
