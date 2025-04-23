@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Biasimeranno la virtù, mormorando dure parole.
+Gli Spartani in occasione delle feste ponevano all'ombra i sedili per gli stranieri, mentre essi si sedevano dove capitava.
 
