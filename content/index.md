@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Gli Spartani in occasione delle feste ponevano all'ombra i sedili per gli stranieri, mentre essi si sedevano dove capitava.
+Quel che non è utile allo sciame non è utile neppure all'ape.
 
