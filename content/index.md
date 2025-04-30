@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Non ti deve confondere la rappresentazione della vita intera. Non abbracciare col pensiero quali e quante sofferenze, alla fine, è probabile che avrai dovuto sopportare, ma, nel momento in cui ciascuna si presenta, chiedi a te stesso cosa vi sia in questo fatto di insopportabile, di insostenibile. Avrai vergogna di ammettere che possa esservi qualcosa di simile. E poi ricorda a te stesso che non è il futuro né il passato ad opprimerti, ma sempre il presente. Questo, però, si riduce di molto, se lo isoli nei suoi confini, e se metti sotto accusa la tua mente quando essa non sia capace di resistere a un presente così inerme.
+Il modo migliore di difendersi è non assimilarsi.
 
