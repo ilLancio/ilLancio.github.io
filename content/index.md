@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Il modo migliore di difendersi è non assimilarsi.
+...come si presentò Socrate cinto di pelle di pecora, la volta che Santippe era uscita con il suo mantello; e cosa disse Socrate ai discepoli che per pudore, quando lo videro conciato così, si ritirarono.
 
