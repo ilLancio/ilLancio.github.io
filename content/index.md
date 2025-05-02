@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-...come si presentò Socrate cinto di pelle di pecora, la volta che Santippe era uscita con il suo mantello; e cosa disse Socrate ai discepoli che per pudore, quando lo videro conciato così, si ritirarono.
+Un volto oscurato dall'ira è decisamente contrario a natura: quando più volte [...] alla fine si estingue, così da non poter più, in alcun modo, essere acceso. Cerca di afferrare bene almeno questo principio, cioè che si tratta di cosa contraria alla ragione. Perché se svanirà anche la percezione dell'errore, quale ragione di vivere resterà più?
 
