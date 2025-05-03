@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Un volto oscurato dall'ira è decisamente contrario a natura: quando più volte [...] alla fine si estingue, così da non poter più, in alcun modo, essere acceso. Cerca di afferrare bene almeno questo principio, cioè che si tratta di cosa contraria alla ragione. Perché se svanirà anche la percezione dell'errore, quale ragione di vivere resterà più?
+...quanti, con cui sono entrato nel cosmo, se ne sono già andati.
 
