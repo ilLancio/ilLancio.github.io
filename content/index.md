@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-...quanti, con cui sono entrato nel cosmo, se ne sono già andati.
+[Sulla morte] O dispersione (nel caso la realtà sia costituita da atomi), o altrimenti (nel caso sia un'unità compatta) estinzione o trasmigrazione.
 
