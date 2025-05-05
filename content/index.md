@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-[Sulla morte] O dispersione (nel caso la realtà sia costituita da atomi), o altrimenti (nel caso sia un'unità compatta) estinzione o trasmigrazione.
+Ad ogni dolore, sia a portata di mano la considerazione: «Non si tratta di cosa turpe e non rende peggiore la mente che sta al timone: infatti non la danneggia né in quanto essa è razionale, né in quanto è disposta alla vita sociale». Ma nella maggior parte dei dolori ti soccorra anche la massima di Epicuro, cioè che il dolore non è insopportabile né eterno, se ricordi i suoi limiti e nel giudicarlo non aggiungi fantasie. E ricorda anche questo: molte sensazioni fastidiose sono uguali, benché non ce ne accorgiamo, al dolore: il torpore della sonnolenza, per esempio, il caldo soffocante, l'inappetenza. Perciò, ogni volta che ti senti afflitto da una di queste sensazioni, di' a te stesso: «Stai cedendo al dolore».
 
