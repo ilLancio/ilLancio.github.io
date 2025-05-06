@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ad ogni dolore, sia a portata di mano la considerazione: «Non si tratta di cosa turpe e non rende peggiore la mente che sta al timone: infatti non la danneggia né in quanto essa è razionale, né in quanto è disposta alla vita sociale». Ma nella maggior parte dei dolori ti soccorra anche la massima di Epicuro, cioè che il dolore non è insopportabile né eterno, se ricordi i suoi limiti e nel giudicarlo non aggiungi fantasie. E ricorda anche questo: molte sensazioni fastidiose sono uguali, benché non ce ne accorgiamo, al dolore: il torpore della sonnolenza, per esempio, il caldo soffocante, l'inappetenza. Perciò, ogni volta che ti senti afflitto da una di queste sensazioni, di' a te stesso: «Stai cedendo al dolore».
+L'Asia, l'Europa sono cantucci del cosmo; ogni mare è una goccia del cosmo; l'Athos è una piccola zolla del cosmo; l'intero tempo presente è un punto dell'eternità: tutto è piccolo, instabile, in atto di scomparire. Tutto viene di là, da quello che è il principio dirigente comune, per impulso diretto o per conseguenza. E, allora, le fauci spalancate del leone, il veleno e quanto provoca danno, come le spine, come il fango, sono accessori di ciò che è venerabile e bello. Non rappresentartelo, quindi, come estraneo a ciò che veneri, ma considera quella che è la fonte di tutto.
 
