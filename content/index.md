@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Nel valutare ciascun oggetto consideralo come già in via di dissolvimento, in atto di trasformarsi e quasi di marcire o disperdersi, ovvero considera che ciascuna cosa è nata quasi per morire.
+Molte volte commette ingiustizia non solo chi fa, ma anche chi non fa qualcosa.
 
