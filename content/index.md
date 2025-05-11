@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Molte volte commette ingiustizia non solo chi fa, ma anche chi non fa qualcosa.
+Nessuno si stanca di ricevere benefici. I benefici sono azioni secondo natura: quindi non stancarti di riceverne, nel momento in cui ne fai.
 
