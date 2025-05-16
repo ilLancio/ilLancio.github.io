@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Ricorda l'intera sostanza, della quale partecipi in entità minima; l'intera eternità, di cui ti è stato assegnato un breve, infinitesimale intervallo; e il destino, di cui tu quale minuscola parte sei?
+«...mietere la vita come una spiga matura, e che uno viva, l'altro no».
 
