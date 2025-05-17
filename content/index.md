@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-«...mietere la vita come una spiga matura, e che uno viva, l'altro no».
+Tutto questo è fetore e sangue corrotto in un sacco: se hai la vista acuta, usala.
 
