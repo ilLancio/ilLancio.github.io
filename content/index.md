@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Tutto questo è fetore e sangue corrotto in un sacco: se hai la vista acuta, usala.
+Bisogna anche che il corpo sia saldo e non venga agitato, né in movimento né in quiete. Bisogna esigere anche per l'intero corpo un risultato analogo a quello che la mente ottiene nel caso del volto, che essa sa conservare composto e decoroso. Ma a tutto questo si deve provvedere senza affettazione.
 
