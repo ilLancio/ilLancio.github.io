@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Chi ha visto la realtà presente ha visto tutto, sia ciò che è stato dall'eternita sia cio che sarà fino all'infinito: perché tutto ha uguale origine e uguale aspetto.
+Io faccio il mio dovere, senza lasciarmi distrarre da tutto il resto: esseri inanimati, o irrazionali, o che si sono smarriti e non conoscono la strada.
 
