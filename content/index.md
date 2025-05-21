@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Io faccio il mio dovere, senza lasciarmi distrarre da tutto il resto: esseri inanimati, o irrazionali, o che si sono smarriti e non conoscono la strada.
+Punto per punto, ad ogni singola cosa che fai, sofférmati a riflettere e domandati se la morte sia temibile perché ti priva di quella cosa.
 
