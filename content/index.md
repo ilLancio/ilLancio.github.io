@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Faccio qualcosa? Lo faccio riferendolo a un beneficio per gli uomini. Mi succede qualcosa? Lo accetto riferendolo agli dèi e alla fonte di tutto, da cui provengono, in stretta connessione, tutti gli eventi.
+L'eternità è come un fiume formato dagli eventi e una corrente impetuosa: ogni singola cosa, infatti, appena cade sott'occhio è già passata oltre, e ne passa un'altra, che a sua volta sarà trascinata via.
 
