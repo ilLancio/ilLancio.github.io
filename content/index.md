@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-L'eternità è come un fiume formato dagli eventi e una corrente impetuosa: ogni singola cosa, infatti, appena cade sott'occhio è già passata oltre, e ne passa un'altra, che a sua volta sarà trascinata via.
+Raccogliti in te stesso. Il principio razionale che ti dirige è per natura autosufficiente, quando agisce secondo giustizia, e proprio nell'agire così trova pace.
 
