@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Raccogliti in te stesso. Il principio razionale che ti dirige è per natura autosufficiente, quando agisce secondo giustizia, e proprio nell'agire così trova pace.
+Gli dèi pur essendo immortali non si indignano di esser destinati a sopportare perennemente, in una così vasta eternità, tanti e tali esseri meschini: anzi, si prendono cura di essi in ogni modo possibile. E tu, che tra un istante finirai, ti arrendi? Tu che oltre tutto sei uno di quegli esseri meschini?
 
