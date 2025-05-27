@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Gli dèi pur essendo immortali non si indignano di esser destinati a sopportare perennemente, in una così vasta eternità, tanti e tali esseri meschini: anzi, si prendono cura di essi in ogni modo possibile. E tu, che tra un istante finirai, ti arrendi? Tu che oltre tutto sei uno di quegli esseri meschini?
+Non vergognarti di ricevere aiuto: il cómpito che ti attende, infatti, è di fare il tuo dovere come un soldato che combatte sulle mura. E allora? E se tu, azzoppato, non fossi in grado di salire da solo sugli spalti, e ci riuscissi invece con l'aiuto di un altro?
 
