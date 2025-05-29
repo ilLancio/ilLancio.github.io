@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La morte è quiete dall'impressione dei sensi, dagli impulsi che ci muovono come marionette, dalle deviazioni del pensiero, dal servizio che prestiamo alla carne.
+La facoltà razionale e sociale giudica legittimamente inferiore a sé tutto ciò che le risulti sprovvisto di intelletto e di inclinazione alla società.
 
