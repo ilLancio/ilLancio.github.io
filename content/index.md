@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-La facoltà razionale e sociale giudica legittimamente inferiore a sé tutto ciò che le risulti sprovvisto di intelletto e di inclinazione alla società.
+Agli itterici il miele sembra amaro, agli idrofobi l'acqua fa paura e ai bambini piace la palla. Perché mi adiro, allora? Ti pare forse che l'errore abbia meno effetto di quanto ne ha la bile sull'itterico e il virus sull'idrofobo?
 
