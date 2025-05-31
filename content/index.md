@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Agli itterici il miele sembra amaro, agli idrofobi l'acqua fa paura e ai bambini piace la palla. Perché mi adiro, allora? Ti pare forse che l'errore abbia meno effetto di quanto ne ha la bile sull'itterico e il virus sull'idrofobo?
+Da Sesto: la benevolenza; il modello di una famiglia patriarcale; il concetto di vita secondo natura; la dignità autentica; la capacità di cogliere in cosa prendersi cura degli amici; la pazienza verso chi, privo di istruzione, crede anche a ciò che non ha esaminato in termini scientifici; la capacità di trovarsi bene con tutti: cosicché il suo conversare era più accattivante di ogni adulazione, eppure, in quel preciso momento, agli occhi dei suoi stessi interlocutori, egli restava degno del più alto rispetto; l'intelligenza e il metodo nell'individuare e disporre i principî indispensabili per la vita; non aver mai dato segno esterno di ira o di altra passione, essendo invece, nello stesso tempo, assolutamente impassibile e affettuosissimo; la disposizione a elogiare, e senza troppo rumore; un'ampia cultura, senza spazio per l'esibizione.
 
