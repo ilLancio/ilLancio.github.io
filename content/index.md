@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Tutto ciò che avviene avviene giustamente: lo verificherai, se osservi con attenzione. Non dico soltanto nel senso che avviene in giusta conseguenza, ma nel senso che avviene secondo giustizia e come per opera di qualcuno che assegna quanto spetta secondo il merito. Quindi osserva questo principio, come hai cominciato a fare, e in qualunque azione agisci con il presupposto di essere buono, nel senso in cui è propriamente inteso l'essere «buono». Mantieni questa esigenza in ogni azione.
+Durante gli esercizi in palestra uno ci ha graffiato con le unghie e lanciandosi di testa ci ha ferito: eppure non usciamo in espressioni di riprovazione, non ci offendiamo, né, in futuro, lo sospettiamo di tenderci insidie; ce ne guardiamo, sì, ma non come da un nemico, né con sospetto, bensì evitandolo, senza rancore. Analogo comportamento si tenga anche negli altri settori della vita: non diamo peso a tante azioni di chi, per così dire, si allena misurandosi con noi! Perché, come ho detto, è possibile evitarli senza nutrire sospetti né ostilità.
 
