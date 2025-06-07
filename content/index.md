@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Se i marinai criticassero il timoniere, o i malati il medico, a che altro penserebbero se non a come uno agisce per l'incolumità dell'equipaggio o per la salute dei pazienti?
+Vivere con gli dèi. Vive con gli dèi chi continuamente mostra loro la propria anima soddisfatta di ciò che gli viene assegnato in sorte, e in atto di compiere quanto vuole il demone che Zeus, quale frammento di sé, ha dato a ciascuno perché lo guidi e lo diriga. Questo demone è l'intelletto e la ragione di ciascuno.
 
