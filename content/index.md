@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Vivere con gli dèi. Vive con gli dèi chi continuamente mostra loro la propria anima soddisfatta di ciò che gli viene assegnato in sorte, e in atto di compiere quanto vuole il demone che Zeus, quale frammento di sé, ha dato a ciascuno perché lo guidi e lo diriga. Questo demone è l'intelletto e la ragione di ciascuno.
+Negli scritti degli epicurei si trovava il monito a ricordare continuamente un personaggio antico che avesse agito secondo virtù.
 
