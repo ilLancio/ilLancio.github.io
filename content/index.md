@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Negli scritti degli epicurei si trovava il monito a ricordare continuamente un personaggio antico che avesse agito secondo virtù.
+Il principio dirigente è quello che desta se stesso, orienta, rende se stesso quale vuole essere, e a se stesso fa apparire ogni evento quale vuole che sia.
 
