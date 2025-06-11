@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Non vedi quanti, nell'esercizio del loro mestiere, si sforzano entro certi limiti di adeguarsi alle idee dei profani, e ciò non ostante si attengono alla ragione della loro arte e non accettano di staccarsene? Non è grave che l'architetto e il medico abbiano per la ragione del loro mestiere un rispetto maggiore di quello che l'uomo nutre per la propria ragione, che egli possiede in comune con gli dèi?
+Come ti si presenta il bagno - olio, sudore, sporco, acqua unta, tutte cose ripugnanti -, così è ogni parte della vita e ogni oggetto.
 
