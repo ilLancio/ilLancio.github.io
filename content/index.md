@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Come ti si presenta il bagno - olio, sudore, sporco, acqua unta, tutte cose ripugnanti -, così è ogni parte della vita e ogni oggetto.
+Parlando in generale, la malvagità non danneggia affatto il cosmo, e la malvagità individuale non danneggia assolutamente gli altri, ma è dannosa soltanto per colui che ha anche il potere di liberarsene, non appena lo voglia.
 
