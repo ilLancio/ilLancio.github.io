@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Parlando in generale, la malvagità non danneggia affatto il cosmo, e la malvagità individuale non danneggia assolutamente gli altri, ma è dannosa soltanto per colui che ha anche il potere di liberarsene, non appena lo voglia.
+Su questo punto è possibile non formarsi alcuna opinione e, quindi, non turbare la propria anima - di per sé, infatti, le cose non hanno natura atta a produrre i nostri giudizi.
 
