@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Su questo punto è possibile non formarsi alcuna opinione e, quindi, non turbare la propria anima - di per sé, infatti, le cose non hanno natura atta a produrre i nostri giudizi.
+Non è giusto che io affligga me stesso: infatti non ho mai afflitto, volontariamente, nessun altro.
 
