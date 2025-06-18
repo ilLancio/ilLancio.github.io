@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Altro è il moto della freccia, altro il moto dell'intelletto; eppure l'intelletto, quando procede con cautela e quando si concentra nel suo esame, si muove diritto e verso l'obiettivo non meno della freccia.
+O un cosmo ordinato o un miscuglio raccolto insieme: ma, ancora, un cosmo. Oppure è possibile che in te esista un ordine e nell'universo il disordine, quando per giunta tutte le cose risultano così distinte, diffuse e solidali?
 
