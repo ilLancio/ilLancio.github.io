@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-O un cosmo ordinato o un miscuglio raccolto insieme: ma, ancora, un cosmo. Oppure è possibile che in te esista un ordine e nell'universo il disordine, quando per giunta tutte le cose risultano così distinte, diffuse e solidali?
+L'Asia, l'Europa sono cantucci del cosmo; ogni mare è una goccia del cosmo; l'Athos è una piccola zolla del cosmo; l'intero tempo presente è un punto dell'eternità: tutto è piccolo, instabile, in atto di scomparire. Tutto viene di là, da quello che è il principio dirigente comune, per impulso diretto o per conseguenza. E, allora, le fauci spalancate del leone, il veleno e quanto provoca danno, come le spine, come il fango, sono accessori di ciò che è venerabile e bello. Non rappresentartelo, quindi, come estraneo a ciò che veneri, ma considera quella che è la fonte di tutto.
 
