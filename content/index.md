@@ -33,5 +33,5 @@ $$
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
 
-Come la natura degli esseri razionali [...] le altre facoltà a ciascuno degli esseri razionali, così abbiamo preso da essa anche questa: nello stesso modo in cui essa ribalta tutto ciò che la ostacola e la contrasta, e lo dispone nell'ordine del destino e ne fa una parte di se stessa, così anche l'essere razionale può fare di ogni impedimento materia di se stesso, e può usarlo per il fine - qualunque esso sia - a cui lo dirigeva l'impulso.
+Tutto questo è consueto per l'esperienza, effimero per il tempo, sudicio per la materia. Tutto, ora, è come al tempo di coloro che abbiamo sepolto.
 
