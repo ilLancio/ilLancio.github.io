@@ -36,3 +36,6 @@ $$
 ### [Bloom Telegram bot](https://t.me/BLOOM_chatbot)
 
 ### [Marcus Aurelius Telegram bot](https://t.me/M_Aurelius_bot)
+
+Tutto questo è consueto per l'esperienza, effimero per il tempo, sudicio per la materia. Tutto, ora, è come al tempo di coloro che abbiamo sepolto.
+
