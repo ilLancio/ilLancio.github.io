@@ -14,6 +14,10 @@ $$
 - **Email**: <daniele9001@gmail.com>
 - **Github**: [ilLancio](https://github.com/ilLancio)
 
+### Thesis (italian)
+
+[Completezza Funzionale di Porte Logiche nei Computer Quantistici](tesi.pdf)
+
 <div align="center">
 
 [$\vdash$](Logica-Matematica.pdf)
