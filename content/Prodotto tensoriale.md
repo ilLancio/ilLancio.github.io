@@ -12,9 +12,7 @@ che soddisfa le proprietà seguenti:
     $$(\lambda \ket{v_1}) \otimes \ket{v_2} = \ket{v_1} \otimes (\lambda \ket{v_2}) =\lambda (\ket{v_1} \otimes \ket{v_2})$$
 
     $\forall \lambda \in \mathbb C, \quad$
-
     $\forall \ket{v_1} \in \mathcal{H}_1, \quad$
-
     $\forall \ket{v_2} \in \mathcal{H}_2$
 
 2) *distributività* dell'addizione tra vettori:
