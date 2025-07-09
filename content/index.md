@@ -20,6 +20,10 @@ $$
 
 [Quantum4](Quantum-Mechanics)
 
+[[Quantum Mechanics]]
+
+[Quantum]([Quantum Mechanics])
+
 <div align="center">
 
 [$\vdash$](Logica-Matematica.pdf)
