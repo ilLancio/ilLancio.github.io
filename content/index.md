@@ -24,6 +24,8 @@ $$
 
 [Quantum]([Quantum Mechanics])
 
+[[Quantum Mechanics|Quantum Mechanics]]
+
 <div align="center">
 
 [$\vdash$](Logica-Matematica.pdf)
