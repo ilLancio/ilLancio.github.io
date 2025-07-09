@@ -8,9 +8,9 @@ $$\mathcal{H}_1 \otimes \mathcal{H}_2 := \text{span} \left\{ \ket{v_1} \otimes \
 che soddisfa le proprietà seguenti:
 
 1) *linearità* della moltiplicazione per uno scalare:
-
-    $$(\lambda \ket{v_1}) \otimes \ket{v_2} = \ket{v_1} \otimes (\lambda \ket{v_2}) =\lambda (\ket{v_1} \otimes \ket{v_2})$$
-
+    $$
+    (\lambda \ket{v_1}) \otimes \ket{v_2} = \ket{v_1} \otimes (\lambda \ket{v_2}) =\lambda (\ket{v_1} \otimes \ket{v_2})
+    $$
     $\forall \lambda \in \mathbb C, \quad$
     $\forall \ket{v_1} \in \mathcal{H}_1, \quad$
     $\forall \ket{v_2} \in \mathcal{H}_2$
