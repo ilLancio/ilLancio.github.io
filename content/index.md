@@ -18,7 +18,7 @@ $$
 
 [Completezza Funzionale di Porte Logiche nei Computer Quantistici](tesi.pdf)
 
-[Quantum1](Quantum Mechanics)
+[Quantum2](Quantum_Mechanics)
 
 <div align="center">
 
