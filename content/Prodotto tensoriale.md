@@ -22,7 +22,6 @@ che soddisfa le proprietà seguenti:
     $$(\ket{v_1} + \ket{w_1}) \otimes \ket{v_2} = \ket{v_1} \otimes \ket{v_2} + \ket{w_1} \otimes \ket{v_2}$$
 
     $\forall \ket{v_1}, \ket{w_1} \in \mathcal{H}_1, \quad$
-
     $\forall \ket{v_2}, \ket{w_2} \in \mathcal{H}_2$
 
 3) siano $\left\{\ket{u_{1,i}}\right\}$ e $\left\{\ket{u_{2,i}}\right\}$ due basi rispettivamente di $\mathcal{H}_1$ e $\mathcal{H}_2$. L'insieme $\left\{\ket{u_{1,i}} \otimes \ket{u_{2,j}}\right\}$ è una *base* di $\mathcal{H}_1 \otimes \mathcal{H}_2$.
