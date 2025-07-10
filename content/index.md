@@ -16,9 +16,7 @@ $$
 
 ### Thesis (italian)
 
-[Completezza Funzionale di Porte Logiche nei Computer Quantistici](tesi.pdf)
-
-[[Tesi in Fisica|Quantum]]
+[[Tesi in Fisica|Completezza Funzionale di Porte Logiche nei Computer Quantistici]]
 
 <div align="center">
 
