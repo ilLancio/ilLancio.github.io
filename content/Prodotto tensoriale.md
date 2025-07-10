@@ -1,11 +1,10 @@
-La trattazione che segue è ispirata principalmente a [Cohen-Tannoudji, 2019, Capitolo II, Sezione F](https://archive.org/details/cohen-tannoudji-diu-and-laloe-quantum-mechanics-vol.-i-ii-and-iii-2nd-ed.), con integrazioni e adattamenti ove necessario.
+La trattazione che segue è ispirata principalmente a [Cohen-Tannoudji, (2019), Capitolo II, Sezione F](https://www.wiley.com/en-us/Quantum+Mechanics%2C+Volume+1%3A+Basic+Concepts%2C+Tools%2C+and+Applications%2C+2nd+Edition-p-9783527822713), con integrazioni e adattamenti ove necessario.
 
 **Definizione** (Prodotto tensoriale).
 Siano $\mathcal{H}_1$ e $\mathcal{H}_2$ due spazi di Hilbert[^1]. Il prodotto tensoriale di $\mathcal{H}_1$ e $\mathcal{H}_2$, denotato con $\mathcal{H}_1 \otimes \mathcal{H}_2$, è uno spazio di Hilbert contenente tutte le coppie del tipo $\ket{v_1} \otimes \ket{v_2}$, dove $\ket{v_1} \in \mathcal{H}_1$ e $\ket{v_2} \in \mathcal{H}_2$ (detti *vettori decomponibili*)
 $$
 \mathcal{H}_1 \otimes \mathcal{H}_2 := \text{span} \left\{ \ket{v_1} \otimes \ket{v_2} : \ket{v_1} \in \mathcal{H}_1 \land \ket{v_2} \in \mathcal{H}_2 \right\}
 $$
-
 che soddisfa le proprietà seguenti:
 
 1) *linearità* della moltiplicazione per uno scalare:
@@ -65,7 +64,7 @@ $$
 A_1, A_2 \textit{ unitari} \implies A_1 \otimes A_2 \textit{ unitario}
 $$
 
-Per una trattazione più completa delle due proposizioni appena enunciate si veda \cite{Liu2024}, \cite[Sezione 2.2]{LANGVILLE2004429} o \citep[Sezione 8]{Pollock01112013}, tenendo a mente il risultato della proposizione enunciata in seguito sul prodotto di Kronecker.
+Per una trattazione più completa delle due proposizioni appena enunciate si veda [Professor Heinz Neudecker and matrix differential calculus, (2024)](https://doi.org/10.1007/s00362-023-01499-w), [Amy N. Langville and William J. Stewart, Sezione 2.2](https://www.sciencedirect.com/science/article/pii/S0377042703009312) o [D.S.G. Pollock (2013), Sezione 8](https://doi.org/10.1080/00207160.2013.783696), tenendo a mente il risultato della proposizione enunciata in seguito sul prodotto di Kronecker.
 
 Si utilizza la notazione $A^{\otimes n}$ per indicare il prodotto tensoriale di un operatore, uno spazio di Hilbert o un vettore $A$ per se stesso $n$ volte.
 
@@ -83,9 +82,17 @@ Il prodotto di Kronecker è la rappresentazione matriciale del prodotto tensoria
 *Siano $\mathcal{H}_1$ e $\mathcal{H}_2$ due spazi di Hilbert finito-dimensionali, di dimensione $m$ e $n$, $\left\{ \ket{u_{1, i}} \right\}_{i=1}^m$ una base di $\mathcal{H}_1$, $\left\{ \ket{u_{2,j}} \right\}_{j=1}^n$ una base di $\mathcal{H}_2$.
 Allora ogni operatore lineare $A_1$ su $\mathcal{H}_1$ è rappresentato, rispetto alla base $\left\{ \ket{u_{1, i}} \right\}$, da una matrice $m \times m$, e ogni operatore $A_2$ su $\mathcal{H}_2$, rispetto alla base $\left\{ \ket{u_{2,j}} \right\}$, da una matrice $n \times n$. Il prodotto tensoriale $A_1 \otimes A_2$, è rappresentato, rispetto alla base tensoriale $\left\{ \ket{u_{1,i}} \otimes \ket{u_{2,j}} \right\}$, dalla matrice di Kronecker $A_1 \otimes_K A_2$.*
 
-Per un esempio dimostrativo dell'enunciato, si rimanda a \citep[Capitolo 11, Proposizione 17]{DummitFoote2004}.
+Per un esempio dimostrativo dell'enunciato, si rimanda a [David S. Dummit and Richard M. Foote (2004), Capitolo 11, Proposizione 17](https://www.wiley.com/en-be/Abstract+Algebra%2C+3rd+Edition-p-9780471433347).
 
 Si utilizza il simbolo $\otimes$ per indicare il prodotto di Kronecker o il prodotto tensoriale tra spazi di Hilbert; invece è spesso omesso nella rappresentazione dei vettori del prodotto tensoriale per i quali si adotta la seguente notazione:
 $$
-\ket{v_1} \otimes \ket{v_2} \otimes \cdots \otimes \ket{v_n} = \ket{v_1} \ket{v_2} \cdots \ket{v_n} = \ket{v_1 v_2 \cdots v_n}
+\ket{v_1} \otimes \ket{v_2} \otimes \cdots \otimes \ket{v_n} := \ket{v_1} \ket{v_2} \cdots \ket{v_n} := \ket{v_1 v_2 \cdots v_n}
 $$
+
+## Bibliografia
+
+- [Claude Cohen-Tannoudji, Bernard Diu, and Franck Laloë. *Quantum Mechanics, Volume 1: Basic Concepts, Tools, and Applications*. Wiley, 2019.](https://www.wiley.com/en-us/Quantum+Mechanics%2C+Volume+1%3A+Basic+Concepts%2C+Tools%2C+and+Applications%2C+2nd+Edition-p-9783527822713)
+- [David S. Dummit and Richard M. Foote. *Abstract Algebra*. John Wiley & Sons, 3 edition, 2004.](https://www.wiley.com/en-be/Abstract+Algebra%2C+3rd+Edition-p-9780471433347)
+- [Amy N. Langville and William J. Stewart. The Kronecker product and stochastic automata networks. *Journal of Computational and Applied Mathematics*, 167(2):429– 447, 2004.](https://www.sciencedirect.com/science/article/pii/S0377042703009312)
+- [Shuangzhe Liu, Götz Trenkler, Tõnu Kollo, Dietrich von Rosen, and Oskar Maria Baksalary. Professor Heinz Neudecker and matrix differential calculus. *Statistical Papers*, 65(4):2605–2639, 2024.](https://doi.org/10.1007/s00362-023-01499-w)
+- [D.S.G. Pollock. On kronecker products, tensor products and matrix differential calculus. *International Journal of Computer Mathematics*, 90(11):2462–2476, 2013.](https://doi.org/10.1080/00207160.2013.783696)
