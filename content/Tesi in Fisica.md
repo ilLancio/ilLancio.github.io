@@ -1,3 +1,25 @@
+# Completezza Funzionale di Porte Logiche nei Computer Quantistici
+
+[**documento pdf**](tesi.pdf)
+
+---
+
+Relatore
+[Prof. Domenico Monaco](https://sites.google.com/view/dmonaco)
+
+Anno Accademico 2024/2025
+
+[Sapienza Università di Roma](https://www.uniroma1.it)
+
+© 2025 Daniele Lanciotti. Tutti i diritti riservati
+
+## Prerequisiti
+
+- [Algebra Lineare](https://www.bollatiboringhieri.it/libri/serge-lang-algebra-lineare-9788833958699/)
+- [[Prodotto scalare, Norma, Distanza]]
+- [[Notazione di Dirac]]
+- [[Spazio di Hilbert]]
+
 ## Introduzione
 
 >«In principio era il Logos» — il verso che apre il Vangelo secondo Giovanni — è uno dei più celebri esempi di quanto la *ragione* sia centrale per la *conoscenza* e per la *scienza* che muovono l’uomo. La ragione non perderà mai il suo potere, perché essa è il mezzo per giungere al *significato* e, per coloro che vorranno ascoltare, all'affermazione della *Verità*.
@@ -32,13 +54,6 @@ L'elaborato prende ispirazione principalmente dagli argomenti trattati nei Capit
   - [[Porte Logiche Universali#Approssimazione di porte logiche]]
   - [[Porte Logiche Universali#Costruzione di porte controllate]]
   - [[Porte Logiche Universali#Porte logiche a due livelli]]
-
-## Prerequisiti
-
-- [Algebra Lineare](https://www.bollatiboringhieri.it/libri/serge-lang-algebra-lineare-9788833958699/)
-- [[Prodotto scalare, Norma, Distanza]]
-- [[Notazione di Dirac]]
-- [[Spazio di Hilbert]]
 
 ## Bibliografia
 
