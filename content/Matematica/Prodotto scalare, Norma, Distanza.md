@@ -19,8 +19,7 @@ che soddisfa le proprietà seguenti:
    $$
    (\vec v, \vec v) \ge 0 \, ; \quad (\vec v, \vec v) = 0 \implies \vec v = 0
    $$
-
-$\forall \vec v, \vec w \in V, \quad \forall \lambda, \mu \in \mathbb C$
+   $\forall \vec v, \vec w \in V, \quad \forall \lambda, \mu \in \mathbb C$
 
 **Proposizione**. (Antilinearità sulla prima componente)
 $$
