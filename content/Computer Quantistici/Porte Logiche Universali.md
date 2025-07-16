@@ -141,7 +141,7 @@ $$
 $$
 Per la dimostrazione, si rimanda a \cite{boykin1999universalfaulttolerantquantumcomputing}.
 
-Da ciò e dal \emph{teorema del ritorno di Poincaré}, per il quale si rimanda a \citep[Capitolo 3]{arnold1989mathematical}, consegue che l'immagine $\{a_n\}_{n \in \mathbb N}$ della successione $a_n = (n\theta) \bmod 2\pi$ è un insieme \emph{denso} in $\mathbb R$, ovvero:
+Da ciò e dal *teorema del ritorno di Poincaré*, per il quale si rimanda a \citep[Capitolo 3]{arnold1989mathematical}, consegue che l'immagine $\{a_n\}_{n \in \mathbb N}$ della successione $a_n = (n\theta) \bmod 2\pi$ è un insieme *denso* in $\mathbb R$, ovvero:
 $$
 \forall \alpha \in \mathbb R \, \forall \delta \in \mathbb R_{>0} \, \exists n \in \mathbb N : \quad |n\theta - \alpha| \bmod 2\pi < \delta
 $$
@@ -269,7 +269,7 @@ L'uguaglianza è evidente calcolando esplicitamente l'operatore matriciale rappr
     = C(U)
 \end{align*}
 
-Sia $U$ una porta a singolo qubit. L'operazione controllata $C^n(U)$ è realizzabile, come mostrato dal circuito seguente, con una composizione di sole porte Toffoli e della porta $C(U)$, sfruttando $n-1$ qubit ausiliari inizializzati a $\ket 0$, detti \emph{qubit di lavoro} (o \emph{qubit ancilla}). L'equivalenza è evidente se si considerano le tavole di verità di queste porte e quindi di come ogni porta che compone il circuito trasformi sequenzialmente gli stati della base computazionale.
+Sia $U$ una porta a singolo qubit. L'operazione controllata $C^n(U)$ è realizzabile, come mostrato dal circuito seguente, con una composizione di sole porte Toffoli e della porta $C(U)$, sfruttando $n-1$ qubit ausiliari inizializzati a $\ket 0$, detti *qubit di lavoro* (o *qubit ancilla*). L'equivalenza è evidente se si considerano le tavole di verità di queste porte e quindi di come ogni porta che compone il circuito trasformi sequenzialmente gli stati della base computazionale.
 \begin{figure}[H]
     \centering
     \hspace{0.5cm} % sposta verso destra
@@ -301,7 +301,7 @@ Sia $U$ una porta a singolo qubit. L'operazione controllata $C^n(U)$ è realizza
 ## Porte logiche a due livelli
 
 **Definizione** (Operatore a due livelli).
-Sia $A$ un operatore agente sullo spazio di Hilbert a dimensione finita $\mathcal H$. L'operatore $A$ si dice \emph{a due livelli} se esiste un sottospazio $\mathcal V \subseteq \mathcal H$ al più a 2 dimensioni tale che:
+Sia $A$ un operatore agente sullo spazio di Hilbert a dimensione finita $\mathcal H$. L'operatore $A$ si dice *a due livelli* se esiste un sottospazio $\mathcal V \subseteq \mathcal H$ al più a 2 dimensioni tale che:
 $$
 \forall \ket{\Psi} \in \mathcal V^\perp,\quad A \ket{\Psi} = \ket{\Psi}
 $$
@@ -336,19 +336,18 @@ $$
 $$
 
 **Definizione** (Codice Gray).
-Siano $i$ e $j$ due codici binari diversi ed entrambi ad $n$ cifre. Un \emph{codice Gray} da $i$ a $j$ è una sequenza finita di codici binari ad $n$ cifre dove il primo è $i$, l'ultimo è $j$ e i codici adiacenti differiscono per esattamente una cifra.
+Siano $i$ e $j$ due codici binari diversi ed entrambi ad $n$ cifre. Un *codice Gray* da $i$ a $j$ è una sequenza finita di codici binari ad $n$ cifre dove il primo è $i$, l'ultimo è $j$ e i codici adiacenti differiscono per esattamente una cifra.
 
-L'implementazione di $U$ avviene tramite l'utilizzo dei \emph{codici Gray} appena definiti ed è suddivisa nei tre seguenti punti:
-\begin{enumerate}
-    \item Applicazione sequenziale di $m$ porte controllate $C_1 = C_1^n(\sigma_1), \cdots, C_m = C_m^n(\sigma_1)$, in modo da implementare un circuito che trasformi soltanto il vettore di base $\ket i$ in $\ket{g_m}$, dove $g_m$ è il penultimo elemento del codice Gray da $i$ a $j$:
+L'implementazione di $U$ avviene tramite l'utilizzo dei *codici Gray* appena definiti ed è suddivisa nei tre seguenti punti:
+
+1) Applicazione sequenziale di $m$ porte controllate $C_1 = C_1^n(\sigma_1), \cdots, C_m = C_m^n(\sigma_1)$, in modo da implementare un circuito che trasformi soltanto il vettore di base $\ket i$ in $\ket{g_m}$, dove $g_m$ è il penultimo elemento del codice Gray da $i$ a $j$:
     $$
     i, g_1, g_2, \cdots, g_m, j \quad\quad\quad
     C_m \cdots C_1 \ket{i} = C_m \cdots C_2 \ket{g_1} = \cdots = \ket{g_m}
     $$
     con $m \in [0, n-1] \cap \mathbb N$.
-    \item Applicazione di una porta controllata $C^{n-1}(\tilde U)$, con qubit target nella posizione dell'unica cifra diversa tra gli ultimi due elementi del codice Gray, e con qubit di controllo che limitino la trasformazione ai soli vettori di base rappresentati dal codice le cui restanti cifre siano del valore di quelle dell'ultimo codice $j$.
-    \item Applicazione in ordine inverso delle porte $C_1, \cdots, C_m$ utilizzate al primo punto.
-\end{enumerate}
+2) Applicazione di una porta controllata $C^{n-1}(\tilde U)$, con qubit target nella posizione dell'unica cifra diversa tra gli ultimi due elementi del codice Gray, e con qubit di controllo che limitino la trasformazione ai soli vettori di base rappresentati dal codice le cui restanti cifre siano del valore di quelle dell'ultimo codice $j$.
+3) Applicazione in ordine inverso delle porte $C_1, \cdots, C_m$ utilizzate al primo punto.
 
 **Esempio**.
 Sia $U$ la seguente porta logica a due livelli e $\tilde U$ la relativa porta logica a singolo qubit che definisce l'azione di $U$ nel sottospazio bidimensionale su cui $U$ agisce non banalmente.
@@ -415,7 +414,7 @@ U =
     c & f & j 
 \end{pmatrix}
 $$
-Siano definite di conseguenza le matrici $U_1, U_2, U_3$ come segue\footnote{Si denota con $a^*$ il complesso coniugato di $a \in \mathbb C$.}:
+Siano definite di conseguenza le matrici $U_1, U_2, U_3$ come segue[^3]:
 \begin{align*}
     U_1 &=
     \begin{cases}
@@ -491,6 +490,8 @@ Moltiplicando tra loro le matrici così definite ed essendo la trasposta coniuga
 $$
 U_3 U_2 U_1 U = I \implies U = U_1^{-1} U_2^{-1} U_3^{-1} = U_1^\dagger U_2^\dagger U_3^\dagger
 $$
+
+[^3] Si denota con $a^*$ il complesso coniugato di $a \in \mathbb C$.
 
 ## Bibliografia
 
