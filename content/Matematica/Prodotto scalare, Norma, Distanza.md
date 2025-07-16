@@ -1,7 +1,7 @@
 Si denota con $a^*$ il complesso coniugato di $a \in \mathbb C$.
 
 **Definizione** (Prodotto scalare).
-Sia $V$ uno spazio vettoriale in campo complesso. Un *prodotto scalare*[^1] (o *Hermitiano* o *interno*) $( \cdot \, , \cdot )$ (o $\langle \cdot , \cdot \rangle$) è una funzione
+Sia $V$ uno spazio vettoriale in campo complesso. Un *prodotto scalare*[^1] (o *hermitiano* o *interno*) $( \cdot \, , \cdot )$ (o $\langle \cdot \, , \cdot \rangle$) è una funzione
 $$
 (\cdot \, , \cdot) : V \times V \to \mathbb C
 $$
@@ -17,9 +17,12 @@ che soddisfa le proprietà seguenti:
    $$
 3) *positività definita*[^2]:
    $$
-   (\vec v, \vec v) \ge 0 \, ; \quad (\vec v, \vec v) = 0 \implies \vec v = 0
+   (\vec v, \vec v) \ge 0 \, ; \quad (\vec v, \vec v) = 0 \implies \vec v = \vec 0
    $$
-   $\forall \vec v, \vec w \in V, \quad \forall \lambda, \mu \in \mathbb C$
+
+$\forall \vec v, \vec w \in V, \quad \forall \lambda, \mu \in \mathbb C$
+
+La coppia $\left(V, ( \cdot \, , \cdot )\right)$ è detta *spazio di pre-Hilbert* (o *prehilbertiano* o *hermitiano*).
 
 **Proposizione**. (Antilinearità sulla prima componente)
 $$
@@ -35,7 +38,29 @@ $$
 (\vec v, \vec w) := \sum_{i = 1}^n v_i^* w_i
 $$
 
+**Definizione** (Prodotto scalare canonico).
+Sia $V$ uno spazio vettoriale in campo complesso di dimensione finita $n$. Siano $(v_1, \cdots, v_n)$ e $(w_1, \cdots, w_n)$ i vettori delle coordinate di $\vec v$ e $\vec w \in V$, rispettivamente, rispetto alla base $\{ \vec b_1, \cdots, \vec b_n \}$. Il *prodotto scalare canonico* tra $\vec v$ e $\vec w$ è definito come:
+$$
+(\vec v, \vec w) := \sum_{i, j = 1}^n v_i^* G_{ij} w_j
+$$
+dove $G$ è la *matrice metrica*
+
+COORDINATE? BASE? NORMA P?
+
 **Definizione** (Norma).
+Sia $V$ uno spazio vettoriale in campo reale o complesso. Una *norma* $\| \cdot \|$ è una funzione
+$$
+\| \cdot \| : V \to \mathbb R
+$$
+che soddisfa le proprietà seguenti:
+
+1) $\| \vec v \| = 0 \Leftrightarrow \vec v = \vec 0$
+2) $\| \lambda \vec v \| = |\lambda| \cdot \| \vec v \|$
+3) $\| \vec v + \vec w \| \le \| \vec v \| + \| \vec w \|\quad$ (*disuguaglianza triangolare*)
+
+$\forall \vec v, \vec w \in V, \quad \forall \lambda \in \mathbb R$
+
+La coppia $\left( V, \| \cdot \| \right)$ è detta *spazio normato*.
 
 **Definizione** (Distanza).
 
@@ -44,7 +69,11 @@ $$
 **Definizione** (Distanza indotta dalla norma).
 
 **Proposizione**.
-*La norma indotta dal prodotto scalare è una norma. La distanza indotta dalla norma è una distanza.*
+*Ogni norma indotta dal prodotto scalare è una norma. Ogni distanza indotta dalla norma è una distanza.*
+
+- Spazio di pre-Hilbert
+- Spazio normato
+- spazio metrico
 
 [^1]: Spesso si preferisce definire il prodotto scalare in campo reale e chiamare prodotto Hermitiano (o interno) quello in campo complesso.
 
