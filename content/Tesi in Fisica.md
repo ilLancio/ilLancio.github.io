@@ -54,9 +54,3 @@ L'elaborato prende ispirazione principalmente dagli argomenti trattati nei Capit
   - [[Porte Logiche Universali#Approssimazione di porte logiche]]
   - [[Porte Logiche Universali#Costruzione di porte controllate]]
   - [[Porte Logiche Universali#Porte logiche a due livelli]]
-
-## Bibliografia
-
-- [P. Oscar Boykin, Tal Mor, Matthew Pulver, Vwani Roychowdhury, and Farrokh Vatan. On universal and fault-tolerant quantum computing, 1999.](http://arxiv.org/abs/quant-ph/9906054v1)
-- [David Deutsch and Roger Penrose. Quantum theory, the Church–Turing principle and the universal quantum computer. *Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences*, 400(1818):97–117, 1985.](https://doi.org/10.1098/rspa.1985.0070)
-- [Michael A. Nielsen and Isaac L. Chuang. *Quantum Computation and Quantum Information: 10th Anniversary Edition*. Cambridge University Press, Cambridge, 2010.](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
