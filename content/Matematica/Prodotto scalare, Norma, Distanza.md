@@ -1,9 +1,9 @@
 Si denota con $a^*$ il complesso coniugato di $a \in \mathbb C$.
 
 **Definizione** (Prodotto scalare).
-Sia $V$ uno spazio vettoriale in campo complesso. Un *prodotto scalare*[^1] (o *hermitiano* o *interno*) $( \cdot \, , \cdot )$ (o $\langle \cdot \, , \cdot \rangle$) è una funzione
+Sia $V$ uno spazio vettoriale in campo $K$ reale o complesso. Un *prodotto scalare*[^1] (o *hermitiano* o *interno*) $( \cdot \, , \cdot )$ (o $\langle \cdot \, , \cdot \rangle$) è una funzione
 $$
-(\cdot \, , \cdot) : V \times V \to \mathbb C
+(\cdot \, , \cdot) : V \times V \to K
 $$
 che soddisfa le proprietà seguenti:
 
@@ -20,7 +20,7 @@ che soddisfa le proprietà seguenti:
    (\vec v, \vec v) \ge 0 \, ; \quad (\vec v, \vec v) = 0 \implies \vec v = \vec 0
    $$
 
-$\forall \vec v, \vec w \in V, \quad \forall \lambda, \mu \in \mathbb C$
+$\forall \vec v, \vec w \in V, \quad \forall \lambda, \mu \in K$
 
 La coppia $\left(V, ( \cdot \, , \cdot )\right)$ è detta *spazio di pre-Hilbert* (o *prehilbertiano* o *hermitiano*).
 
@@ -39,7 +39,7 @@ $$
 $$
 
 **Definizione** (Prodotto scalare canonico).
-Sia $V$ uno spazio vettoriale in campo complesso di dimensione finita $n$. Siano $(v_1, \cdots, v_n)$ e $(w_1, \cdots, w_n)$ i vettori delle coordinate di $\vec v$ e $\vec w \in V$, rispettivamente, rispetto alla base $\{ \vec b_1, \cdots, \vec b_n \}$. Il *prodotto scalare canonico* tra $\vec v$ e $\vec w$ è definito come:
+Sia $V$ uno spazio vettoriale in campo reale o complesso di dimensione finita $n$. Siano $(v_1, \cdots, v_n)$ e $(w_1, \cdots, w_n)$ i vettori delle coordinate di $\vec v$ e $\vec w \in V$, rispettivamente, rispetto alla base $B = \{ \vec b_1, \cdots, \vec b_n \}$. Il *prodotto scalare canonico* tra $\vec v$ e $\vec w$ rispetto alla base $B$ è definito come:
 $$
 (\vec v, \vec w) := \sum_{i, j = 1}^n v_i^* G_{ij} w_j
 $$
