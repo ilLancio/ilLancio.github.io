@@ -45,8 +45,6 @@ $$
 $$
 dove $G$ è la *matrice metrica*
 
-COORDINATE? BASE? NORMA P?
-
 **Definizione** (Norma).
 Sia $V$ uno spazio vettoriale in campo reale o complesso. Una *norma* $\| \cdot \|$ è una funzione
 $$

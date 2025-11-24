@@ -5,7 +5,7 @@ Ogni teoria fisica si basa su un insieme minimale di definizioni prime irriducib
     $$
     \mathcal H = \mathcal H_1 \otimes \mathcal H_2 \otimes \cdots \otimes \mathcal H_n
     $$
-- **Stato del sistema**: Si definisce una relazione di equivalenza $\sim$ su $\mathcal H \setminus \{0\}$ ponendo $\ket\Psi \sim \ket\Phi \, \Leftrightarrow \, \exists \, \alpha \in \mathbb C \setminus \{0\}$ tale che $\ket\Psi = \alpha \ket\Phi$.
+- **Stato del sistema**: Si definisce una relazione di equivalenza $\sim$ su $\mathcal H \setminus \{0\}$ ponendo $\ket\Psi \sim \ket\Phi \, \Leftrightarrow \, \exists \, \alpha \in \mathbb C \setminus \{0\} \text{ tale che } \ket\Psi = \alpha \ket\Phi$.
 Lo *stato fisico* di un sistema quantistico è allora un elemento dello spazio quoziente $\mathcal{H}/\sim$, ovvero un raggio dello spazio di Hilbert $\mathcal H$.
 - **Osservabile**: Ogni quantità sperimentalmente misurabile (osservabile) è associata ad un operatore autoaggiunto che agisce sullo spazio di Hilbert del sistema quantistico.
 - **Misura dell'osservabile**: Una misura dell’osservabile $\hat{A}$ produce come risultato uno degli autovalori $\lambda_i$ dello spettro di $\hat{A}$.

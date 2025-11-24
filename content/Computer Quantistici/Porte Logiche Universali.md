@@ -137,7 +137,7 @@ $$
 \end{align*}
 L'angolo $\theta$ così definito è un multiplo irrazionale di $2\pi$, ovvero tale che:
 $$
-\frac{\theta}{2\pi} \in \mathbb R / \mathbb Q
+\frac{\theta}{2\pi} \in \mathbb R \setminus \mathbb Q
 $$
 Per la dimostrazione, si rimanda a \cite{boykin1999universalfaulttolerantquantumcomputing}.
 
